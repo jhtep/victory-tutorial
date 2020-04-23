@@ -7,6 +7,8 @@ import {
   VictoryTheme,
   VictoryStack,
 } from 'victory';
+import material from './material';
+import grayscale from './grayscale';
 
 const data2012 = [
   { quarter: 1, earnings: 10000 },
@@ -45,8 +47,10 @@ class App extends React.Component {
         <h1>Victory Tutorial</h1>
         <VictoryChart
           // adding the material theme provided with Victory
-          theme={VictoryTheme.material}
+          // theme={VictoryTheme.material}
           // theme={VictoryTheme.grayscale}
+          theme={material}
+          // theme={grayscale}
           // domainPadding will add space to each side of VictoryBar to
           // prevent it from over>lapping the axis
           domainPadding={20}
