@@ -18,10 +18,10 @@ const data2012 = [
 ];
 
 const data2013 = [
-  { quarter: 1, earnings: 15000 },
-  { quarter: 2, earnings: 12500 },
-  { quarter: 3, earnings: 19500 },
-  { quarter: 4, earnings: 13000 },
+  { quarter: 1, earnings: 1000 },
+  { quarter: 2, earnings: 1000 },
+  { quarter: 3, earnings: 1000 },
+  { quarter: 4, earnings: 1000 },
 ];
 
 const data2014 = [
