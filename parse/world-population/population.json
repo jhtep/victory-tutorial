@@ -1,0 +1,1312 @@
+[
+  {
+    "country_name": "Afghanistan",
+    "value": 37172386,
+    "year": "2018"
+  },
+  {
+    "country_name": "Barbados",
+    "value": 286641,
+    "year": "2018"
+  },
+  {
+    "country_name": "Belarus",
+    "value": 9485386,
+    "year": "2018"
+  },
+  {
+    "country_name": "Belize",
+    "value": 383071,
+    "year": "2018"
+  },
+  {
+    "country_name": "British Virgin Islands",
+    "value": 29802,
+    "year": "2018"
+  },
+  {
+    "country_name": "Brunei Darussalam",
+    "value": 428962,
+    "year": "2018"
+  },
+  {
+    "country_name": "Burundi",
+    "value": 11175378,
+    "year": "2018"
+  },
+  {
+    "country_name": "Colombia",
+    "value": 49648685,
+    "year": "2018"
+  },
+  {
+    "country_name": "Comoros",
+    "value": 832322,
+    "year": "2018"
+  },
+  {
+    "country_name": "Congo, Rep.",
+    "value": 5244363,
+    "year": "2018"
+  },
+  {
+    "country_name": "Costa Rica",
+    "value": 4999441,
+    "year": "2018"
+  },
+  {
+    "country_name": "Cuba",
+    "value": 11338138,
+    "year": "2018"
+  },
+  {
+    "country_name": "Czech Republic",
+    "value": 10625695,
+    "year": "2018"
+  },
+  {
+    "country_name": "Ethiopia",
+    "value": 109224559,
+    "year": "2018"
+  },
+  {
+    "country_name": "Greenland",
+    "value": 56025,
+    "year": "2018"
+  },
+  {
+    "country_name": "Guinea",
+    "value": 12414318,
+    "year": "2018"
+  },
+  {
+    "country_name": "Jamaica",
+    "value": 2934855,
+    "year": "2018"
+  },
+  {
+    "country_name": "Korea, Rep.",
+    "value": 51635256,
+    "year": "2018"
+  },
+  {
+    "country_name": "Lebanon",
+    "value": 6848925,
+    "year": "2018"
+  },
+  {
+    "country_name": "Libya",
+    "value": 6678567,
+    "year": "2018"
+  },
+  {
+    "country_name": "Luxembourg",
+    "value": 607728,
+    "year": "2018"
+  },
+  {
+    "country_name": "Macao SAR, China",
+    "value": 631636,
+    "year": "2018"
+  },
+  {
+    "country_name": "Marshall Islands",
+    "value": 58413,
+    "year": "2018"
+  },
+  {
+    "country_name": "Mexico",
+    "value": 126190788,
+    "year": "2018"
+  },
+  {
+    "country_name": "New Zealand",
+    "value": 4885500,
+    "year": "2018"
+  },
+  {
+    "country_name": "Nicaragua",
+    "value": 6465513,
+    "year": "2018"
+  },
+  {
+    "country_name": "Norway",
+    "value": 5314336,
+    "year": "2018"
+  },
+  {
+    "country_name": "Qatar",
+    "value": 2781677,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sierra Leone",
+    "value": 7650154,
+    "year": "2018"
+  },
+  {
+    "country_name": "Slovenia",
+    "value": 2067372,
+    "year": "2018"
+  },
+  {
+    "country_name": "Somalia",
+    "value": 15008154,
+    "year": "2018"
+  },
+  {
+    "country_name": "South Sudan",
+    "value": 10975920,
+    "year": "2018"
+  },
+  {
+    "country_name": "Timor-Leste",
+    "value": 1267972,
+    "year": "2018"
+  },
+  {
+    "country_name": "Tonga",
+    "value": 103197,
+    "year": "2018"
+  },
+  {
+    "country_name": "Ukraine",
+    "value": 44622516,
+    "year": "2018"
+  },
+  {
+    "country_name": "United States",
+    "value": 327167434,
+    "year": "2018"
+  },
+  {
+    "country_name": "Virgin Islands (U.S.)",
+    "value": 106977,
+    "year": "2018"
+  },
+  {
+    "country_name": "East Asia & Pacific (IDA & IBRD countries)",
+    "value": 2056064424,
+    "year": "2018"
+  },
+  {
+    "country_name": "Euro area",
+    "value": 341783171,
+    "year": "2018"
+  },
+  {
+    "country_name": "Europe & Central Asia",
+    "value": 918793590,
+    "year": "2018"
+  },
+  {
+    "country_name": "European Union",
+    "value": 513213363,
+    "year": "2018"
+  },
+  {
+    "country_name": "IBRD only",
+    "value": 4772284113,
+    "year": "2018"
+  },
+  {
+    "country_name": "IDA blend",
+    "value": 555830605,
+    "year": "2018"
+  },
+  {
+    "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "value": 625569713,
+    "year": "2018"
+  },
+  {
+    "country_name": "Low & middle income",
+    "value": 6383958209,
+    "year": "2018"
+  },
+  {
+    "country_name": "North America",
+    "value": 364290258,
+    "year": "2018"
+  },
+  {
+    "country_name": "Pre-demographic dividend",
+    "value": 919485393,
+    "year": "2018"
+  },
+  {
+    "country_name": "American Samoa",
+    "value": 55465,
+    "year": "2018"
+  },
+  {
+    "country_name": "Andorra",
+    "value": 77006,
+    "year": "2018"
+  },
+  {
+    "country_name": "Austria",
+    "value": 8847037,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bangladesh",
+    "value": 161356039,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bermuda",
+    "value": 63968,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bolivia",
+    "value": 11353142,
+    "year": "2018"
+  },
+  {
+    "country_name": "Central African Republic",
+    "value": 4666377,
+    "year": "2018"
+  },
+  {
+    "country_name": "Channel Islands",
+    "value": 170499,
+    "year": "2018"
+  },
+  {
+    "country_name": "Chile",
+    "value": 18729160,
+    "year": "2018"
+  },
+  {
+    "country_name": "Congo, Dem. Rep.",
+    "value": 84068091,
+    "year": "2018"
+  },
+  {
+    "country_name": "Cote d'Ivoire",
+    "value": 25069229,
+    "year": "2018"
+  },
+  {
+    "country_name": "Djibouti",
+    "value": 958920,
+    "year": "2018"
+  },
+  {
+    "country_name": "Ecuador",
+    "value": 17084357,
+    "year": "2018"
+  },
+  {
+    "country_name": "France",
+    "value": 66987244,
+    "year": "2018"
+  },
+  {
+    "country_name": "Gibraltar",
+    "value": 33718,
+    "year": "2018"
+  },
+  {
+    "country_name": "Guinea-Bissau",
+    "value": 1874309,
+    "year": "2018"
+  },
+  {
+    "country_name": "Haiti",
+    "value": 11123176,
+    "year": "2018"
+  },
+  {
+    "country_name": "Kuwait",
+    "value": 4137309,
+    "year": "2018"
+  },
+  {
+    "country_name": "Lao PDR",
+    "value": 7061507,
+    "year": "2018"
+  },
+  {
+    "country_name": "Latvia",
+    "value": 1926542,
+    "year": "2018"
+  },
+  {
+    "country_name": "Liberia",
+    "value": 4818977,
+    "year": "2018"
+  },
+  {
+    "country_name": "Madagascar",
+    "value": 26262368,
+    "year": "2018"
+  },
+  {
+    "country_name": "Malaysia",
+    "value": 31528585,
+    "year": "2018"
+  },
+  {
+    "country_name": "Maldives",
+    "value": 515696,
+    "year": "2018"
+  },
+  {
+    "country_name": "Mauritius",
+    "value": 1265303,
+    "year": "2018"
+  },
+  {
+    "country_name": "Morocco",
+    "value": 36029138,
+    "year": "2018"
+  },
+  {
+    "country_name": "Nauru",
+    "value": 12704,
+    "year": "2018"
+  },
+  {
+    "country_name": "Netherlands",
+    "value": 17231017,
+    "year": "2018"
+  },
+  {
+    "country_name": "North Macedonia",
+    "value": 2082958,
+    "year": "2018"
+  },
+  {
+    "country_name": "Northern Mariana Islands",
+    "value": 56882,
+    "year": "2018"
+  },
+  {
+    "country_name": "Russian Federation",
+    "value": 144478050,
+    "year": "2018"
+  },
+  {
+    "country_name": "Seychelles",
+    "value": 96762,
+    "year": "2018"
+  },
+  {
+    "country_name": "Suriname",
+    "value": 575991,
+    "year": "2018"
+  },
+  {
+    "country_name": "Syrian Arab Republic",
+    "value": 16906283,
+    "year": "2018"
+  },
+  {
+    "country_name": "Thailand",
+    "value": 69428524,
+    "year": "2018"
+  },
+  {
+    "country_name": "Togo",
+    "value": 7889094,
+    "year": "2018"
+  },
+  {
+    "country_name": "United Arab Emirates",
+    "value": 9630959,
+    "year": "2018"
+  },
+  {
+    "country_name": "Uruguay",
+    "value": 3449299,
+    "year": "2018"
+  },
+  {
+    "country_name": "Uzbekistan",
+    "value": 32955400,
+    "year": "2018"
+  },
+  {
+    "country_name": "Zambia",
+    "value": 17351822,
+    "year": "2018"
+  },
+  {
+    "country_name": "Caribbean small states",
+    "value": 7358965,
+    "year": "2018"
+  },
+  {
+    "country_name": "East Asia & Pacific",
+    "value": 2328220870,
+    "year": "2018"
+  },
+  {
+    "country_name": "IDA & IBRD total",
+    "value": 6412522234,
+    "year": "2018"
+  },
+  {
+    "country_name": "Lower middle income",
+    "value": 3022905169,
+    "year": "2018"
+  },
+  {
+    "country_name": "Middle East & North Africa",
+    "value": 448912859,
+    "year": "2018"
+  },
+  {
+    "country_name": "Argentina",
+    "value": 44494502,
+    "year": "2018"
+  },
+  {
+    "country_name": "Armenia",
+    "value": 2951776,
+    "year": "2018"
+  },
+  {
+    "country_name": "Australia",
+    "value": 24992369,
+    "year": "2018"
+  },
+  {
+    "country_name": "Belgium",
+    "value": 11422068,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bosnia and Herzegovina",
+    "value": 3323929,
+    "year": "2018"
+  },
+  {
+    "country_name": "Burkina Faso",
+    "value": 19751535,
+    "year": "2018"
+  },
+  {
+    "country_name": "Canada",
+    "value": 37058856,
+    "year": "2018"
+  },
+  {
+    "country_name": "Cayman Islands",
+    "value": 64174,
+    "year": "2018"
+  },
+  {
+    "country_name": "China",
+    "value": 1392730000,
+    "year": "2018"
+  },
+  {
+    "country_name": "Dominica",
+    "value": 71625,
+    "year": "2018"
+  },
+  {
+    "country_name": "Egypt, Arab Rep.",
+    "value": 98423595,
+    "year": "2018"
+  },
+  {
+    "country_name": "Estonia",
+    "value": 1320884,
+    "year": "2018"
+  },
+  {
+    "country_name": "Faroe Islands",
+    "value": 48497,
+    "year": "2018"
+  },
+  {
+    "country_name": "Gambia, The",
+    "value": 2280102,
+    "year": "2018"
+  },
+  {
+    "country_name": "Grenada",
+    "value": 111454,
+    "year": "2018"
+  },
+  {
+    "country_name": "Hong Kong SAR, China",
+    "value": 7451000,
+    "year": "2018"
+  },
+  {
+    "country_name": "Hungary",
+    "value": 9768785,
+    "year": "2018"
+  },
+  {
+    "country_name": "Israel",
+    "value": 8883800,
+    "year": "2018"
+  },
+  {
+    "country_name": "Jordan",
+    "value": 9956011,
+    "year": "2018"
+  },
+  {
+    "country_name": "Kazakhstan",
+    "value": 18276499,
+    "year": "2018"
+  },
+  {
+    "country_name": "Kyrgyz Republic",
+    "value": 6315800,
+    "year": "2018"
+  },
+  {
+    "country_name": "Lesotho",
+    "value": 2108132,
+    "year": "2018"
+  },
+  {
+    "country_name": "Liechtenstein",
+    "value": 37910,
+    "year": "2018"
+  },
+  {
+    "country_name": "Lithuania",
+    "value": 2789533,
+    "year": "2018"
+  },
+  {
+    "country_name": "Malawi",
+    "value": 18143315,
+    "year": "2018"
+  },
+  {
+    "country_name": "Malta",
+    "value": 483530,
+    "year": "2018"
+  },
+  {
+    "country_name": "Moldova",
+    "value": 3545883,
+    "year": "2018"
+  },
+  {
+    "country_name": "Mongolia",
+    "value": 3170208,
+    "year": "2018"
+  },
+  {
+    "country_name": "Myanmar",
+    "value": 53708395,
+    "year": "2018"
+  },
+  {
+    "country_name": "Namibia",
+    "value": 2448255,
+    "year": "2018"
+  },
+  {
+    "country_name": "New Caledonia",
+    "value": 284060,
+    "year": "2018"
+  },
+  {
+    "country_name": "Pakistan",
+    "value": 212215030,
+    "year": "2018"
+  },
+  {
+    "country_name": "Philippines",
+    "value": 106651922,
+    "year": "2018"
+  },
+  {
+    "country_name": "Poland",
+    "value": 37978548,
+    "year": "2018"
+  },
+  {
+    "country_name": "Portugal",
+    "value": 10281762,
+    "year": "2018"
+  },
+  {
+    "country_name": "Puerto Rico",
+    "value": 3195153,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sao Tome and Principe",
+    "value": 211028,
+    "year": "2018"
+  },
+  {
+    "country_name": "Saudi Arabia",
+    "value": 33699947,
+    "year": "2018"
+  },
+  {
+    "country_name": "Senegal",
+    "value": 15854360,
+    "year": "2018"
+  },
+  {
+    "country_name": "Singapore",
+    "value": 5638676,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sint Maarten (Dutch part)",
+    "value": 40654,
+    "year": "2018"
+  },
+  {
+    "country_name": "Spain",
+    "value": 46723749,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sri Lanka",
+    "value": 21670000,
+    "year": "2018"
+  },
+  {
+    "country_name": "St. Martin (French part)",
+    "value": 37264,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sudan",
+    "value": 41801533,
+    "year": "2018"
+  },
+  {
+    "country_name": "Tanzania",
+    "value": 56318348,
+    "year": "2018"
+  },
+  {
+    "country_name": "Trinidad and Tobago",
+    "value": 1389858,
+    "year": "2018"
+  },
+  {
+    "country_name": "Turkey",
+    "value": 82319724,
+    "year": "2018"
+  },
+  {
+    "country_name": "Uganda",
+    "value": 42723139,
+    "year": "2018"
+  },
+  {
+    "country_name": "Vanuatu",
+    "value": 292680,
+    "year": "2018"
+  },
+  {
+    "country_name": "Venezuela, RB",
+    "value": 28870195,
+    "year": "2018"
+  },
+  {
+    "country_name": "Vietnam",
+    "value": 95540395,
+    "year": "2018"
+  },
+  {
+    "country_name": "Yemen, Rep.",
+    "value": 28498687,
+    "year": "2018"
+  },
+  {
+    "country_name": "Early-demographic dividend",
+    "value": 3249140605,
+    "year": "2018"
+  },
+  {
+    "country_name": "East Asia & Pacific (excluding high income)",
+    "value": 2081651801,
+    "year": "2018"
+  },
+  {
+    "country_name": "Europe & Central Asia (IDA & IBRD countries)",
+    "value": 459865205,
+    "year": "2018"
+  },
+  {
+    "country_name": "Fragile and conflict affected situations",
+    "value": 515215936,
+    "year": "2018"
+  },
+  {
+    "country_name": "Heavily indebted poor countries (HIPC)",
+    "value": 780234406,
+    "year": "2018"
+  },
+  {
+    "country_name": "IDA only",
+    "value": 1084407516,
+    "year": "2018"
+  },
+  {
+    "country_name": "Least developed countries: UN classification",
+    "value": 1009662578,
+    "year": "2018"
+  },
+  {
+    "country_name": "OECD members",
+    "value": 1303529456,
+    "year": "2018"
+  },
+  {
+    "country_name": "Other small states",
+    "value": 30758989,
+    "year": "2018"
+  },
+  {
+    "country_name": "Pacific island small states",
+    "value": 2457367,
+    "year": "2018"
+  },
+  {
+    "country_name": "Small states",
+    "value": 40575321,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sub-Saharan Africa",
+    "value": 1078306520,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sub-Saharan Africa (excluding high income)",
+    "value": 1078209758,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "value": 1078306520,
+    "year": "2018"
+  },
+  {
+    "country_name": "Algeria",
+    "value": 42228429,
+    "year": "2018"
+  },
+  {
+    "country_name": "Angola",
+    "value": 30809762,
+    "year": "2018"
+  },
+  {
+    "country_name": "Antigua and Barbuda",
+    "value": 96286,
+    "year": "2018"
+  },
+  {
+    "country_name": "Aruba",
+    "value": 105845,
+    "year": "2018"
+  },
+  {
+    "country_name": "Azerbaijan",
+    "value": 9942334,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bahamas, The",
+    "value": 385640,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bahrain",
+    "value": 1569439,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bhutan",
+    "value": 754394,
+    "year": "2018"
+  },
+  {
+    "country_name": "Cambodia",
+    "value": 16249798,
+    "year": "2018"
+  },
+  {
+    "country_name": "Cameroon",
+    "value": 25216237,
+    "year": "2018"
+  },
+  {
+    "country_name": "Chad",
+    "value": 15477751,
+    "year": "2018"
+  },
+  {
+    "country_name": "Curacao",
+    "value": 159849,
+    "year": "2018"
+  },
+  {
+    "country_name": "Cyprus",
+    "value": 1189265,
+    "year": "2018"
+  },
+  {
+    "country_name": "Denmark",
+    "value": 5797446,
+    "year": "2018"
+  },
+  {
+    "country_name": "El Salvador",
+    "value": 6420744,
+    "year": "2018"
+  },
+  {
+    "country_name": "Eswatini",
+    "value": 1136191,
+    "year": "2018"
+  },
+  {
+    "country_name": "Fiji",
+    "value": 883483,
+    "year": "2018"
+  },
+  {
+    "country_name": "French Polynesia",
+    "value": 277679,
+    "year": "2018"
+  },
+  {
+    "country_name": "Ghana",
+    "value": 29767108,
+    "year": "2018"
+  },
+  {
+    "country_name": "Greece",
+    "value": 10727668,
+    "year": "2018"
+  },
+  {
+    "country_name": "Guam",
+    "value": 165768,
+    "year": "2018"
+  },
+  {
+    "country_name": "Honduras",
+    "value": 9587522,
+    "year": "2018"
+  },
+  {
+    "country_name": "India",
+    "value": 1352617328,
+    "year": "2018"
+  },
+  {
+    "country_name": "Indonesia",
+    "value": 267663435,
+    "year": "2018"
+  },
+  {
+    "country_name": "Iran, Islamic Rep.",
+    "value": 81800269,
+    "year": "2018"
+  },
+  {
+    "country_name": "Isle of Man",
+    "value": 84077,
+    "year": "2018"
+  },
+  {
+    "country_name": "Japan",
+    "value": 126529100,
+    "year": "2018"
+  },
+  {
+    "country_name": "Korea, Dem. People’s Rep.",
+    "value": 25549819,
+    "year": "2018"
+  },
+  {
+    "country_name": "Kosovo",
+    "value": 1845300,
+    "year": "2018"
+  },
+  {
+    "country_name": "Mauritania",
+    "value": 4403319,
+    "year": "2018"
+  },
+  {
+    "country_name": "Niger",
+    "value": 22442948,
+    "year": "2018"
+  },
+  {
+    "country_name": "Nigeria",
+    "value": 195874740,
+    "year": "2018"
+  },
+  {
+    "country_name": "Oman",
+    "value": 4829483,
+    "year": "2018"
+  },
+  {
+    "country_name": "Palau",
+    "value": 17907,
+    "year": "2018"
+  },
+  {
+    "country_name": "Paraguay",
+    "value": 6956071,
+    "year": "2018"
+  },
+  {
+    "country_name": "Rwanda",
+    "value": 12301939,
+    "year": "2018"
+  },
+  {
+    "country_name": "Samoa",
+    "value": 196130,
+    "year": "2018"
+  },
+  {
+    "country_name": "Serbia",
+    "value": 6982084,
+    "year": "2018"
+  },
+  {
+    "country_name": "Solomon Islands",
+    "value": 652858,
+    "year": "2018"
+  },
+  {
+    "country_name": "St. Lucia",
+    "value": 181889,
+    "year": "2018"
+  },
+  {
+    "country_name": "St. Vincent and the Grenadines",
+    "value": 110210,
+    "year": "2018"
+  },
+  {
+    "country_name": "Turks and Caicos Islands",
+    "value": 37665,
+    "year": "2018"
+  },
+  {
+    "country_name": "West Bank and Gaza",
+    "value": 4569087,
+    "year": "2018"
+  },
+  {
+    "country_name": "Zimbabwe",
+    "value": 14439018,
+    "year": "2018"
+  },
+  {
+    "country_name": "High income",
+    "value": 1210312147,
+    "year": "2018"
+  },
+  {
+    "country_name": "Latin America & Caribbean",
+    "value": 641357515,
+    "year": "2018"
+  },
+  {
+    "country_name": "Middle East & North Africa (excluding high income)",
+    "value": 382896715,
+    "year": "2018"
+  },
+  {
+    "country_name": "Middle income",
+    "value": 5678540888,
+    "year": "2018"
+  },
+  {
+    "country_name": "Post-demographic dividend",
+    "value": 1109997273,
+    "year": "2018"
+  },
+  {
+    "country_name": "South Asia",
+    "value": 1814388744,
+    "year": "2018"
+  },
+  {
+    "country_name": "South Asia (IDA & IBRD)",
+    "value": 1814388744,
+    "year": "2018"
+  },
+  {
+    "country_name": "Albania",
+    "value": 2866376,
+    "year": "2018"
+  },
+  {
+    "country_name": "Benin",
+    "value": 11485048,
+    "year": "2018"
+  },
+  {
+    "country_name": "Botswana",
+    "value": 2254126,
+    "year": "2018"
+  },
+  {
+    "country_name": "Brazil",
+    "value": 209469333,
+    "year": "2018"
+  },
+  {
+    "country_name": "Bulgaria",
+    "value": 7024216,
+    "year": "2018"
+  },
+  {
+    "country_name": "Cabo Verde",
+    "value": 543767,
+    "year": "2018"
+  },
+  {
+    "country_name": "Croatia",
+    "value": 4089400,
+    "year": "2018"
+  },
+  {
+    "country_name": "Dominican Republic",
+    "value": 10627165,
+    "year": "2018"
+  },
+  {
+    "country_name": "Equatorial Guinea",
+    "value": 1308974,
+    "year": "2018"
+  },
+  {
+    "country_name": "Finland",
+    "value": 5518050,
+    "year": "2018"
+  },
+  {
+    "country_name": "Gabon",
+    "value": 2119275,
+    "year": "2018"
+  },
+  {
+    "country_name": "Georgia",
+    "value": 3731000,
+    "year": "2018"
+  },
+  {
+    "country_name": "Germany",
+    "value": 82927922,
+    "year": "2018"
+  },
+  {
+    "country_name": "Guatemala",
+    "value": 17247807,
+    "year": "2018"
+  },
+  {
+    "country_name": "Guyana",
+    "value": 779004,
+    "year": "2018"
+  },
+  {
+    "country_name": "Iceland",
+    "value": 353574,
+    "year": "2018"
+  },
+  {
+    "country_name": "Iraq",
+    "value": 38433600,
+    "year": "2018"
+  },
+  {
+    "country_name": "Ireland",
+    "value": 4853506,
+    "year": "2018"
+  },
+  {
+    "country_name": "Italy",
+    "value": 60431283,
+    "year": "2018"
+  },
+  {
+    "country_name": "Kenya",
+    "value": 51393010,
+    "year": "2018"
+  },
+  {
+    "country_name": "Kiribati",
+    "value": 115847,
+    "year": "2018"
+  },
+  {
+    "country_name": "Mali",
+    "value": 19077690,
+    "year": "2018"
+  },
+  {
+    "country_name": "Micronesia, Fed. Sts.",
+    "value": 112640,
+    "year": "2018"
+  },
+  {
+    "country_name": "Monaco",
+    "value": 38682,
+    "year": "2018"
+  },
+  {
+    "country_name": "Montenegro",
+    "value": 622345,
+    "year": "2018"
+  },
+  {
+    "country_name": "Mozambique",
+    "value": 29495962,
+    "year": "2018"
+  },
+  {
+    "country_name": "Nepal",
+    "value": 28087871,
+    "year": "2018"
+  },
+  {
+    "country_name": "Panama",
+    "value": 4176873,
+    "year": "2018"
+  },
+  {
+    "country_name": "Papua New Guinea",
+    "value": 8606316,
+    "year": "2018"
+  },
+  {
+    "country_name": "Peru",
+    "value": 31989256,
+    "year": "2018"
+  },
+  {
+    "country_name": "Romania",
+    "value": 19473936,
+    "year": "2018"
+  },
+  {
+    "country_name": "San Marino",
+    "value": 33785,
+    "year": "2018"
+  },
+  {
+    "country_name": "Slovak Republic",
+    "value": 5447011,
+    "year": "2018"
+  },
+  {
+    "country_name": "South Africa",
+    "value": 57779622,
+    "year": "2018"
+  },
+  {
+    "country_name": "St. Kitts and Nevis",
+    "value": 52441,
+    "year": "2018"
+  },
+  {
+    "country_name": "Sweden",
+    "value": 10183175,
+    "year": "2018"
+  },
+  {
+    "country_name": "Switzerland",
+    "value": 8516543,
+    "year": "2018"
+  },
+  {
+    "country_name": "Tajikistan",
+    "value": 9100837,
+    "year": "2018"
+  },
+  {
+    "country_name": "Tunisia",
+    "value": 11565204,
+    "year": "2018"
+  },
+  {
+    "country_name": "Turkmenistan",
+    "value": 5850908,
+    "year": "2018"
+  },
+  {
+    "country_name": "Tuvalu",
+    "value": 11508,
+    "year": "2018"
+  },
+  {
+    "country_name": "United Kingdom",
+    "value": 66488991,
+    "year": "2018"
+  },
+  {
+    "country_name": "Arab World",
+    "value": 419790588,
+    "year": "2018"
+  },
+  {
+    "country_name": "Central Europe and the Baltics",
+    "value": 102511922,
+    "year": "2018"
+  },
+  {
+    "country_name": "Europe & Central Asia (excluding high income)",
+    "value": 417797257,
+    "year": "2018"
+  },
+  {
+    "country_name": "IDA total",
+    "value": 1640238121,
+    "year": "2018"
+  },
+  {
+    "country_name": "Late-demographic dividend",
+    "value": 2288665963,
+    "year": "2018"
+  },
+  {
+    "country_name": "Latin America & Caribbean (excluding high income)",
+    "value": 609013934,
+    "year": "2018"
+  },
+  {
+    "country_name": "Low income",
+    "value": 705417321,
+    "year": "2018"
+  },
+  {
+    "country_name": "Middle East & North Africa (IDA & IBRD countries)",
+    "value": 378327628,
+    "year": "2018"
+  },
+  {
+    "country_name": "Upper middle income",
+    "value": 2655635719,
+    "year": "2018"
+  },
+  {
+    "country_name": "World",
+    "value": 7594270356,
+    "year": "2018"
+  }
+]
