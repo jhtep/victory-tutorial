@@ -47,7 +47,7 @@ const Country_Region_to_country_name = {
 // sums[7] {"Confirmed":87026,"Deaths":5481,"Country_Region":"Iran"}
 // "country_name": "Iran, Islamic Rep.",
 
-const file_date = '04-23-2020';
+const file_date = '04-24-2020';
 const daily_dir = './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/';
 const cvs_inpath = daily_dir + file_date + '.csv';
 const outpath_summary = './stats/' + file_date + '.json';
