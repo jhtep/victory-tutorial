@@ -10,11 +10,36 @@ const pop_by_country = {};
 pop.forEach((item) => {
   pop_by_country[item.country_name] = item;
 });
-const country_name_map = {
+const Country_Region_to_country_name = {
   US: 'United States',
   Iran: 'Iran, Islamic Rep.',
   Venezuela: 'Venezuela, RB',
+  Bahamas: 'Bahamas, The',
+  Brunei: 'Brunei Darussalam',
+  Burma: 'Myanmar',
+  'Congo (Brazzaville)': 'Congo, Rep.',
+  'Congo (Kinshasa)': 'Congo, Rep.',
+  Czechia: 'Czech Republic',
+  Egypt: 'Egypt, Arab Rep.',
+  Gambia: 'Gambia, The',
+  'Korea, South': 'Korea, Rep.',
+  Kyrgyzstan: 'Kyrgyz Republic',
+  Laos: 'Lao PDR',
+  Russia: 'Russian Federation',
+  'Saint Kitts and Nevis': 'St. Kitts and Nevis',
+  'Saint Lucia': 'St. Lucia',
+  'Saint Vincent and the Grenadines': 'St. Vincent and the Grenadines',
+  Slovakia: 'Slovak Republic',
+  Syria: 'Syrian Arab Republic',
+  Yemen: 'Yemen, Rep.',
 };
+
+// set_population: country_name missing Diamond Princess
+// set_population: country_name missing Eritrea
+// set_population: country_name missing Holy See
+// set_population: country_name missing MS Zaandam
+// set_population: country_name missing Taiwan*
+// set_population: country_name missing Western Sahara
 
 // sums[0] {"Confirmed":869170,"Deaths":49954,"Country_Region":"US"}
 // "country_name": "United States",
@@ -22,18 +47,21 @@ const country_name_map = {
 // sums[7] {"Confirmed":87026,"Deaths":5481,"Country_Region":"Iran"}
 // "country_name": "Iran, Islamic Rep.",
 
-const path =
-  './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/04-23-2020.csv';
+const file_date = '04-23-2020';
+const daily_dir = './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/';
+const cvs_inpath = daily_dir + file_date + '.csv';
+const outpath_summary = './stats/' + file_date + '.json';
+const outpath_detail = './stats/' + file_date + '-details.json';
+
 // './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/03-23-2020.csv';
 // './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/03-21-2020.csv';
 // './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/01-22-2020.csv';
-const input = fs.readFileSync(path);
+
+const input = fs.readFileSync(cvs_inpath);
 const records = parse(input, {
   columns: true,
   skip_empty_lines: true,
 });
-
-const out_path = './data/04-23-2020.json';
 
 // const nrecords = records.filter((item, index) => index < 4);
 const renames = {
@@ -61,7 +89,7 @@ function rename_item(item) {
 }
 
 function find_population(item) {
-  let cname = country_name_map[item.Country_Region];
+  let cname = Country_Region_to_country_name[item.Country_Region];
   if (!cname) cname = item.Country_Region;
   let ncountry = pop_by_country[cname];
   if (!ncountry) {
@@ -111,7 +139,7 @@ records.forEach(process_item);
 // Active: '22',
 // Combined_Key: 'Essex, New York, US' }
 
-console.log('\n', path);
+console.log('\n', cvs_inpath);
 console.log('records[0]', records[0]);
 console.log('sums_total', sums_total);
 console.log('\n');
@@ -119,9 +147,10 @@ console.log('\n');
 const sums = Object.values(sums_country);
 sums.sort((item1, item2) => item2.Deaths - item1.Deaths);
 sums.forEach((item) => {
-  item.per_population = {};
+  item.per_1000 = {};
   for (let prop in stats_init) {
-    item.per_population[prop] = item[prop] / item.population;
+    item.per_1000[prop] = (item[prop] / item.population) * 1000;
+    // item.per_population[prop] = item[prop] / item.population;
     // item.per_population[prop] = item[prop] / (item.population / 1000);
   }
 });
@@ -134,9 +163,10 @@ for (let index = 0; index < 20; index++) {
 //   console.log('sums[' + index + ']', JSON.stringify(sums[index]));
 // }
 
-console.log(out_path, '\n');
+console.log(outpath_summary, '\n');
 
-fs.writeJsonSync(out_path, sums, { spaces: 2 });
+fs.writeJsonSync(outpath_summary, sums, { spaces: 2 });
+fs.writeJsonSync(outpath_detail, records, { spaces: 2 });
 
 // sums[0] {"Confirmed":869170,"Deaths":49954,"Country_Region":"US"}
 // "country_name": "United States",
