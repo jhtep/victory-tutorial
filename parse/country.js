@@ -5,6 +5,23 @@
 const parse = require('csv-parse/lib/sync');
 const fs = require('fs-extra');
 
+const pop = require('./world-population/pop2018.json');
+const pop_by_country = {};
+pop.forEach((item) => {
+  pop_by_country[item.country_name] = item;
+});
+const country_name_map = {
+  US: 'United States',
+  Iran: 'Iran, Islamic Rep.',
+  Venezuela: 'Venezuela, RB',
+};
+
+// sums[0] {"Confirmed":869170,"Deaths":49954,"Country_Region":"US"}
+// "country_name": "United States",
+
+// sums[7] {"Confirmed":87026,"Deaths":5481,"Country_Region":"Iran"}
+// "country_name": "Iran, Islamic Rep.",
+
 const path =
   './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/04-23-2020.csv';
 // './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/03-23-2020.csv';
@@ -16,6 +33,8 @@ const records = parse(input, {
   skip_empty_lines: true,
 });
 
+const out_path = './data/04-23-2020.json';
+
 // const nrecords = records.filter((item, index) => index < 4);
 const renames = {
   'Province/State': 'Province_State',
@@ -23,7 +42,7 @@ const renames = {
 };
 const sums_country = {};
 const stats_init = { Confirmed: 0, Deaths: 0 };
-const sums_total = { Confirmed: 0, Deaths: 0 };
+const sums_total = Object.assign({}, stats_init);
 
 function calc(sums, item) {
   for (let prop in stats_init) {
@@ -41,6 +60,18 @@ function rename_item(item) {
   }
 }
 
+function find_population(item) {
+  let cname = country_name_map[item.Country_Region];
+  if (!cname) cname = item.Country_Region;
+  let ncountry = pop_by_country[cname];
+  if (!ncountry) {
+    console.log('set_population: country_name missing', cname);
+    return 0;
+  }
+  return ncountry.population;
+  // console.log('set_population: item', item);
+}
+
 function process_item(item, index) {
   rename_item(item);
   item.source_index = index;
@@ -49,6 +80,7 @@ function process_item(item, index) {
     stats = Object.assign({}, stats_init);
     stats.Country_Region = item.Country_Region;
     sums_country[item.Country_Region] = stats;
+    stats.population = find_population(item);
   }
   calc(stats, item);
   calc(sums_total, item);
@@ -86,11 +118,48 @@ console.log('\n');
 
 const sums = Object.values(sums_country);
 sums.sort((item1, item2) => item2.Deaths - item1.Deaths);
-
+sums.forEach((item) => {
+  item.per_population = {};
+  for (let prop in stats_init) {
+    item.per_population[prop] = item[prop] / item.population;
+    // item.per_population[prop] = item[prop] / (item.population / 1000);
+  }
+});
 console.log('sums.length', sums.length, '\n');
 
-for (let index = 0; index < 10; index++) {
+for (let index = 0; index < 20; index++) {
   console.log('sums[' + index + ']', JSON.stringify(sums[index]));
 }
+// for (let index = sums.length - 20; index < sums.length; index++) {
+//   console.log('sums[' + index + ']', JSON.stringify(sums[index]));
+// }
 
-console.log('\n');
+console.log(out_path, '\n');
+
+fs.writeJsonSync(out_path, sums, { spaces: 2 });
+
+// sums[0] {"Confirmed":869170,"Deaths":49954,"Country_Region":"US"}
+// "country_name": "United States",
+
+// sums[7] {"Confirmed":87026,"Deaths":5481,"Country_Region":"Iran"}
+// "country_name": "Iran, Islamic Rep.",
+
+// sums[1] {"Confirmed":189973,"Deaths":25549,"Country_Region":"Italy"}
+// sums[2] {"Confirmed":213024,"Deaths":22157,"Country_Region":"Spain"}
+// sums[3] {"Confirmed":159460,"Deaths":21889,"Country_Region":"France"}
+// sums[4] {"Confirmed":139246,"Deaths":18791,"Country_Region":"United Kingdom"}
+// sums[5] {"Confirmed":42797,"Deaths":6490,"Country_Region":"Belgium"}
+// sums[6] {"Confirmed":153129,"Deaths":5575,"Country_Region":"Germany"}
+
+// sums[8] {"Confirmed":83884,"Deaths":4636,"Country_Region":"China"}
+// sums[9] {"Confirmed":35921,"Deaths":4192,"Country_Region":"Netherlands"}
+// sums[10] {"Confirmed":50036,"Deaths":3331,"Country_Region":"Brazil"}
+// sums[11] {"Confirmed":101790,"Deaths":2491,"Country_Region":"Turkey"}
+// sums[12] {"Confirmed":43286,"Deaths":2241,"Country_Region":"Canada"}
+// sums[13] {"Confirmed":16755,"Deaths":2021,"Country_Region":"Sweden"}
+// sums[14] {"Confirmed":28496,"Deaths":1549,"Country_Region":"Switzerland"}
+// sums[15] {"Confirmed":11633,"Deaths":1069,"Country_Region":"Mexico"}
+// sums[16] {"Confirmed":22353,"Deaths":820,"Country_Region":"Portugal"}
+// sums[17] {"Confirmed":17607,"Deaths":794,"Country_Region":"Ireland"}
+// sums[18] {"Confirmed":23077,"Deaths":721,"Country_Region":"India"}
+// sums[19] {"Confirmed":7775,"Deaths":647,"Country_Region":"Indonesia"}

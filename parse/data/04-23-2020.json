@@ -1,0 +1,1852 @@
+[
+  {
+    "Confirmed": 869170,
+    "Deaths": 49954,
+    "Country_Region": "US",
+    "population": 327167434,
+    "per_population": {
+      "Confirmed": 0.0026566519453766905,
+      "Deaths": 0.00015268634591546787
+    }
+  },
+  {
+    "Confirmed": 189973,
+    "Deaths": 25549,
+    "Country_Region": "Italy",
+    "population": 60431283,
+    "per_population": {
+      "Confirmed": 0.0031436201677200863,
+      "Deaths": 0.00042277771928158465
+    }
+  },
+  {
+    "Confirmed": 213024,
+    "Deaths": 22157,
+    "Country_Region": "Spain",
+    "population": 46723749,
+    "per_population": {
+      "Confirmed": 0.004559223190758944,
+      "Deaths": 0.00047421280342893715
+    }
+  },
+  {
+    "Confirmed": 159460,
+    "Deaths": 21889,
+    "Country_Region": "France",
+    "population": 66987244,
+    "per_population": {
+      "Confirmed": 0.002380453209867837,
+      "Deaths": 0.00032676370444498356
+    }
+  },
+  {
+    "Confirmed": 139246,
+    "Deaths": 18791,
+    "Country_Region": "United Kingdom",
+    "population": 66488991,
+    "per_population": {
+      "Confirmed": 0.0020942715163176414,
+      "Deaths": 0.00028261821569829505
+    }
+  },
+  {
+    "Confirmed": 42797,
+    "Deaths": 6490,
+    "Country_Region": "Belgium",
+    "population": 11422068,
+    "per_population": {
+      "Confirmed": 0.003746869656177848,
+      "Deaths": 0.0005681983332615425
+    }
+  },
+  {
+    "Confirmed": 153129,
+    "Deaths": 5575,
+    "Country_Region": "Germany",
+    "population": 82927922,
+    "per_population": {
+      "Confirmed": 0.0018465312563843092,
+      "Deaths": 0.00006722705532160808
+    }
+  },
+  {
+    "Confirmed": 87026,
+    "Deaths": 5481,
+    "Country_Region": "Iran",
+    "population": 81800269,
+    "per_population": {
+      "Confirmed": 0.0010638840319706039,
+      "Deaths": 0.00006700466963012065
+    }
+  },
+  {
+    "Confirmed": 83884,
+    "Deaths": 4636,
+    "Country_Region": "China",
+    "population": 1392730000,
+    "per_population": {
+      "Confirmed": 0.00006022990816597617,
+      "Deaths": 0.00000332871410826219
+    }
+  },
+  {
+    "Confirmed": 35921,
+    "Deaths": 4192,
+    "Country_Region": "Netherlands",
+    "population": 17231017,
+    "per_population": {
+      "Confirmed": 0.002084670916406153,
+      "Deaths": 0.00024328221601777771
+    }
+  },
+  {
+    "Confirmed": 50036,
+    "Deaths": 3331,
+    "Country_Region": "Brazil",
+    "population": 209469333,
+    "per_population": {
+      "Confirmed": 0.00023887028847320577,
+      "Deaths": 0.000015902089113922944
+    }
+  },
+  {
+    "Confirmed": 101790,
+    "Deaths": 2491,
+    "Country_Region": "Turkey",
+    "population": 82319724,
+    "per_population": {
+      "Confirmed": 0.0012365201807527926,
+      "Deaths": 0.000030260062582328386
+    }
+  },
+  {
+    "Confirmed": 43286,
+    "Deaths": 2241,
+    "Country_Region": "Canada",
+    "population": 37058856,
+    "per_population": {
+      "Confirmed": 0.001168033897214744,
+      "Deaths": 0.0000604713755869852
+    }
+  },
+  {
+    "Confirmed": 16755,
+    "Deaths": 2021,
+    "Country_Region": "Sweden",
+    "population": 10183175,
+    "per_population": {
+      "Confirmed": 0.001645361098085813,
+      "Deaths": 0.00019846462424538515
+    }
+  },
+  {
+    "Confirmed": 28496,
+    "Deaths": 1549,
+    "Country_Region": "Switzerland",
+    "population": 8516543,
+    "per_population": {
+      "Confirmed": 0.003345958565582303,
+      "Deaths": 0.000181881310292216
+    }
+  },
+  {
+    "Confirmed": 11633,
+    "Deaths": 1069,
+    "Country_Region": "Mexico",
+    "population": 126190788,
+    "per_population": {
+      "Confirmed": 0.00009218580994993073,
+      "Deaths": 0.000008471299822614628
+    }
+  },
+  {
+    "Confirmed": 22353,
+    "Deaths": 820,
+    "Country_Region": "Portugal",
+    "population": 10281762,
+    "per_population": {
+      "Confirmed": 0.002174043709628758,
+      "Deaths": 0.00007975286726146744
+    }
+  },
+  {
+    "Confirmed": 17607,
+    "Deaths": 794,
+    "Country_Region": "Ireland",
+    "population": 4853506,
+    "per_population": {
+      "Confirmed": 0.0036276868721291373,
+      "Deaths": 0.00016359308096044385
+    }
+  },
+  {
+    "Confirmed": 23077,
+    "Deaths": 721,
+    "Country_Region": "India",
+    "population": 1352617328,
+    "per_population": {
+      "Confirmed": 0.00001706099687050586,
+      "Deaths": 5.330406354220534e-7
+    }
+  },
+  {
+    "Confirmed": 7775,
+    "Deaths": 647,
+    "Country_Region": "Indonesia",
+    "population": 267663435,
+    "per_population": {
+      "Confirmed": 0.000029047673246814605,
+      "Deaths": 0.0000024172147383522893
+    }
+  },
+  {
+    "Confirmed": 20914,
+    "Deaths": 572,
+    "Country_Region": "Peru",
+    "population": 31989256,
+    "per_population": {
+      "Confirmed": 0.000653782007308954,
+      "Deaths": 0.000017881003546940885
+    }
+  },
+  {
+    "Confirmed": 11183,
+    "Deaths": 560,
+    "Country_Region": "Ecuador",
+    "population": 17084357,
+    "per_population": {
+      "Confirmed": 0.0006545754107105114,
+      "Deaths": 0.00003277852365178274
+    }
+  },
+  {
+    "Confirmed": 62773,
+    "Deaths": 555,
+    "Country_Region": "Russia",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 10096,
+    "Deaths": 545,
+    "Country_Region": "Romania",
+    "population": 19473936,
+    "per_population": {
+      "Confirmed": 0.000518436539998899,
+      "Deaths": 0.000027986124633458792
+    }
+  },
+  {
+    "Confirmed": 15002,
+    "Deaths": 522,
+    "Country_Region": "Austria",
+    "population": 8847037,
+    "per_population": {
+      "Confirmed": 0.0016957089701331643,
+      "Deaths": 0.00005900280511995146
+    }
+  },
+  {
+    "Confirmed": 6981,
+    "Deaths": 462,
+    "Country_Region": "Philippines",
+    "population": 106651922,
+    "per_population": {
+      "Confirmed": 0.00006545592305406366,
+      "Deaths": 0.000004331848796874003
+    }
+  },
+  {
+    "Confirmed": 10511,
+    "Deaths": 454,
+    "Country_Region": "Poland",
+    "population": 37978548,
+    "per_population": {
+      "Confirmed": 0.00027676150230914566,
+      "Deaths": 0.000011954116834587779
+    }
+  },
+  {
+    "Confirmed": 3007,
+    "Deaths": 407,
+    "Country_Region": "Algeria",
+    "population": 42228429,
+    "per_population": {
+      "Confirmed": 0.0000712079532961077,
+      "Deaths": 0.00000963805686448814
+    }
+  },
+  {
+    "Confirmed": 8271,
+    "Deaths": 394,
+    "Country_Region": "Denmark",
+    "population": 5797446,
+    "per_population": {
+      "Confirmed": 0.001426662706302051,
+      "Deaths": 0.0000679609607402984
+    }
+  },
+  {
+    "Confirmed": 12368,
+    "Deaths": 328,
+    "Country_Region": "Japan",
+    "population": 126529100,
+    "per_population": {
+      "Confirmed": 0.00009774826502361907,
+      "Deaths": 0.000002592289046551347
+    }
+  },
+  {
+    "Confirmed": 3891,
+    "Deaths": 287,
+    "Country_Region": "Egypt",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 5543,
+    "Deaths": 265,
+    "Country_Region": "Dominican Republic",
+    "population": 10627165,
+    "per_population": {
+      "Confirmed": 0.0005215878364549718,
+      "Deaths": 0.000024936095374448407
+    }
+  },
+  {
+    "Confirmed": 10708,
+    "Deaths": 240,
+    "Country_Region": "Korea, South",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 2284,
+    "Deaths": 239,
+    "Country_Region": "Hungary",
+    "population": 9768785,
+    "per_population": {
+      "Confirmed": 0.00023380594413737225,
+      "Deaths": 0.000024465683296336237
+    }
+  },
+  {
+    "Confirmed": 11155,
+    "Deaths": 237,
+    "Country_Region": "Pakistan",
+    "population": 212215030,
+    "per_population": {
+      "Confirmed": 0.00005256460864246986,
+      "Deaths": 0.0000011167917748332905
+    }
+  },
+  {
+    "Confirmed": 4561,
+    "Deaths": 215,
+    "Country_Region": "Colombia",
+    "population": 49648685,
+    "per_population": {
+      "Confirmed": 0.00009186547438265485,
+      "Deaths": 0.00000433042687837553
+    }
+  },
+  {
+    "Confirmed": 7187,
+    "Deaths": 210,
+    "Country_Region": "Czechia",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 7401,
+    "Deaths": 194,
+    "Country_Region": "Norway",
+    "population": 5314336,
+    "per_population": {
+      "Confirmed": 0.0013926481125769992,
+      "Deaths": 0.00003650503092013753
+    }
+  },
+  {
+    "Confirmed": 14803,
+    "Deaths": 192,
+    "Country_Region": "Israel",
+    "population": 8883800,
+    "per_population": {
+      "Confirmed": 0.0016662914518561877,
+      "Deaths": 0.000021612373083590354
+    }
+  },
+  {
+    "Confirmed": 7170,
+    "Deaths": 187,
+    "Country_Region": "Ukraine",
+    "population": 44622516,
+    "per_population": {
+      "Confirmed": 0.00016068121304500175,
+      "Deaths": 0.000004190709461564203
+    }
+  },
+  {
+    "Confirmed": 4284,
+    "Deaths": 172,
+    "Country_Region": "Finland",
+    "population": 5518050,
+    "per_population": {
+      "Confirmed": 0.0007763612145594911,
+      "Deaths": 0.00003117043158362102
+    }
+  },
+  {
+    "Confirmed": 11812,
+    "Deaths": 168,
+    "Country_Region": "Chile",
+    "population": 18729160,
+    "per_population": {
+      "Confirmed": 0.0006306743068028678,
+      "Deaths": 0.000008969969822458669
+    }
+  },
+  {
+    "Confirmed": 3435,
+    "Deaths": 165,
+    "Country_Region": "Argentina",
+    "population": 44494502,
+    "per_population": {
+      "Confirmed": 0.0000772005494072054,
+      "Deaths": 0.0000037083233339705655
+    }
+  },
+  {
+    "Confirmed": 3568,
+    "Deaths": 155,
+    "Country_Region": "Morocco",
+    "population": 36029138,
+    "per_population": {
+      "Confirmed": 0.00009903095655521928,
+      "Deaths": 0.000004302073505061376
+    }
+  },
+  {
+    "Confirmed": 5166,
+    "Deaths": 146,
+    "Country_Region": "Panama",
+    "population": 4176873,
+    "per_population": {
+      "Confirmed": 0.001236810408168982,
+      "Deaths": 0.00003495437855065261
+    }
+  },
+  {
+    "Confirmed": 4186,
+    "Deaths": 127,
+    "Country_Region": "Bangladesh",
+    "population": 161356039,
+    "per_population": {
+      "Confirmed": 0.000025942629888181625,
+      "Deaths": 7.87079310988788e-7
+    }
+  },
+  {
+    "Confirmed": 2463,
+    "Deaths": 125,
+    "Country_Region": "Greece",
+    "population": 10727668,
+    "per_population": {
+      "Confirmed": 0.00022959323498825652,
+      "Deaths": 0.000011652113022140506
+    }
+  },
+  {
+    "Confirmed": 6630,
+    "Deaths": 125,
+    "Country_Region": "Serbia",
+    "population": 6982084,
+    "per_population": {
+      "Confirmed": 0.0009495732219778507,
+      "Deaths": 0.00001790296421526868
+    }
+  },
+  {
+    "Confirmed": 13930,
+    "Deaths": 121,
+    "Country_Region": "Saudi Arabia",
+    "population": 33699947,
+    "per_population": {
+      "Confirmed": 0.0004133537658085931,
+      "Deaths": 0.000003590510097834872
+    }
+  },
+  {
+    "Confirmed": 5603,
+    "Deaths": 95,
+    "Country_Region": "Malaysia",
+    "population": 31528585,
+    "per_population": {
+      "Confirmed": 0.00017771174951238694,
+      "Deaths": 0.000003013138712060817
+    }
+  },
+  {
+    "Confirmed": 3665,
+    "Deaths": 83,
+    "Country_Region": "Luxembourg",
+    "population": 607728,
+    "per_population": {
+      "Confirmed": 0.006030658452465577,
+      "Deaths": 0.0001365742569044046
+    }
+  },
+  {
+    "Confirmed": 1677,
+    "Deaths": 83,
+    "Country_Region": "Iraq",
+    "population": 38433600,
+    "per_population": {
+      "Confirmed": 0.00004363369551642313,
+      "Deaths": 0.000002159568710711461
+    }
+  },
+  {
+    "Confirmed": 2926,
+    "Deaths": 80,
+    "Country_Region": "Moldova",
+    "population": 3545883,
+    "per_population": {
+      "Confirmed": 0.0008251823311711074,
+      "Deaths": 0.000022561376108574365
+    }
+  },
+  {
+    "Confirmed": 1366,
+    "Deaths": 79,
+    "Country_Region": "Slovenia",
+    "population": 2067372,
+    "per_population": {
+      "Confirmed": 0.000660742237004274,
+      "Deaths": 0.00003821276480478598
+    }
+  },
+  {
+    "Confirmed": 6661,
+    "Deaths": 75,
+    "Country_Region": "Australia",
+    "population": 24992369,
+    "per_population": {
+      "Confirmed": 0.00026652135297778294,
+      "Deaths": 0.000003000915999599718
+    }
+  },
+  {
+    "Confirmed": 3953,
+    "Deaths": 75,
+    "Country_Region": "South Africa",
+    "population": 57779622,
+    "per_population": {
+      "Confirmed": 0.00006841512393417873,
+      "Deaths": 0.000001298035490782546
+    }
+  },
+  {
+    "Confirmed": 8022,
+    "Deaths": 60,
+    "Country_Region": "Belarus",
+    "population": 9485386,
+    "per_population": {
+      "Confirmed": 0.0008457220401995238,
+      "Deaths": 0.0000063255201211632295
+    }
+  },
+  {
+    "Confirmed": 8756,
+    "Deaths": 56,
+    "Country_Region": "United Arab Emirates",
+    "population": 9630959,
+    "per_population": {
+      "Confirmed": 0.0009091514147241204,
+      "Deaths": 0.000005814581912351615
+    }
+  },
+  {
+    "Confirmed": 1300,
+    "Deaths": 56,
+    "Country_Region": "North Macedonia",
+    "population": 2082958,
+    "per_population": {
+      "Confirmed": 0.0006241124400972079,
+      "Deaths": 0.000026884843573418186
+    }
+  },
+  {
+    "Confirmed": 1413,
+    "Deaths": 54,
+    "Country_Region": "Bosnia and Herzegovina",
+    "population": 3323929,
+    "per_population": {
+      "Confirmed": 0.00042509933274748047,
+      "Deaths": 0.000016245834372515176
+    }
+  },
+  {
+    "Confirmed": 1097,
+    "Deaths": 52,
+    "Country_Region": "Bulgaria",
+    "population": 7024216,
+    "per_population": {
+      "Confirmed": 0.0001561740128720415,
+      "Deaths": 0.000007402961412348367
+    }
+  },
+  {
+    "Confirmed": 2839,
+    "Deaths": 50,
+    "Country_Region": "Thailand",
+    "population": 69428524,
+    "per_population": {
+      "Confirmed": 0.000040890974435809694,
+      "Deaths": 7.201651010181348e-7
+    }
+  },
+  {
+    "Confirmed": 1981,
+    "Deaths": 50,
+    "Country_Region": "Croatia",
+    "population": 4089400,
+    "per_population": {
+      "Confirmed": 0.000484423142759329,
+      "Deaths": 0.000012226732527999218
+    }
+  },
+  {
+    "Confirmed": 519,
+    "Deaths": 47,
+    "Country_Region": "Honduras",
+    "population": 9587522,
+    "per_population": {
+      "Confirmed": 0.000054132861442195384,
+      "Deaths": 0.000004902205178772992
+    }
+  },
+  {
+    "Confirmed": 1592,
+    "Deaths": 45,
+    "Country_Region": "Estonia",
+    "population": 1320884,
+    "per_population": {
+      "Confirmed": 0.0012052534514764355,
+      "Deaths": 0.00003406809379173341
+    }
+  },
+  {
+    "Confirmed": 1235,
+    "Deaths": 43,
+    "Country_Region": "Cuba",
+    "population": 11338138,
+    "per_population": {
+      "Confirmed": 0.00010892441069247878,
+      "Deaths": 0.0000037925098459729454
+    }
+  },
+  {
+    "Confirmed": 703,
+    "Deaths": 43,
+    "Country_Region": "Bolivia",
+    "population": 11353142,
+    "per_population": {
+      "Confirmed": 0.00006192118446153496,
+      "Deaths": 0.0000037874977693399766
+    }
+  },
+  {
+    "Confirmed": 1334,
+    "Deaths": 43,
+    "Country_Region": "Cameroon",
+    "population": 25216237,
+    "per_population": {
+      "Confirmed": 0.0000529024215627415,
+      "Deaths": 0.0000017052504701633316
+    }
+  },
+  {
+    "Confirmed": 1279,
+    "Deaths": 42,
+    "Country_Region": "Afghanistan",
+    "population": 37172386,
+    "per_population": {
+      "Confirmed": 0.00003440726134717314,
+      "Deaths": 0.0000011298709746530664
+    }
+  },
+  {
+    "Confirmed": 616,
+    "Deaths": 41,
+    "Country_Region": "Burkina Faso",
+    "population": 19751535,
+    "per_population": {
+      "Confirmed": 0.00003118744948177446,
+      "Deaths": 0.0000020757880336895333
+    }
+  },
+  {
+    "Confirmed": 1398,
+    "Deaths": 40,
+    "Country_Region": "Lithuania",
+    "population": 2789533,
+    "per_population": {
+      "Confirmed": 0.0005011591545968447,
+      "Deaths": 0.000014339317728092838
+    }
+  },
+  {
+    "Confirmed": 501,
+    "Deaths": 40,
+    "Country_Region": "San Marino",
+    "population": 33785,
+    "per_population": {
+      "Confirmed": 0.01482906615361847,
+      "Deaths": 0.0011839573775344087
+    }
+  },
+  {
+    "Confirmed": 918,
+    "Deaths": 38,
+    "Country_Region": "Tunisia",
+    "population": 11565204,
+    "per_population": {
+      "Confirmed": 0.00007937603175871346,
+      "Deaths": 0.000003285718090229969
+    }
+  },
+  {
+    "Confirmed": 723,
+    "Deaths": 37,
+    "Country_Region": "Andorra",
+    "population": 77006,
+    "per_population": {
+      "Confirmed": 0.009388878788665818,
+      "Deaths": 0.0004804820403604914
+    }
+  },
+  {
+    "Confirmed": 981,
+    "Deaths": 31,
+    "Country_Region": "Nigeria",
+    "population": 195874740,
+    "per_population": {
+      "Confirmed": 0.000005008302755117888,
+      "Deaths": 1.5826440918313408e-7
+    }
+  },
+  {
+    "Confirmed": 663,
+    "Deaths": 27,
+    "Country_Region": "Albania",
+    "population": 2866376,
+    "per_population": {
+      "Confirmed": 0.0002313025227674248,
+      "Deaths": 0.000009419559750709607
+    }
+  },
+  {
+    "Confirmed": 377,
+    "Deaths": 25,
+    "Country_Region": "Congo (Kinshasa)",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 671,
+    "Deaths": 24,
+    "Country_Region": "Niger",
+    "population": 22442948,
+    "per_population": {
+      "Confirmed": 0.00002989803300350738,
+      "Deaths": 0.0000010693782296336471
+    }
+  },
+  {
+    "Confirmed": 1523,
+    "Deaths": 24,
+    "Country_Region": "Armenia",
+    "population": 2951776,
+    "per_population": {
+      "Confirmed": 0.0005159605606929523,
+      "Deaths": 0.000008130698264366944
+    }
+  },
+  {
+    "Confirmed": 688,
+    "Deaths": 22,
+    "Country_Region": "Lebanon",
+    "population": 6848925,
+    "per_population": {
+      "Confirmed": 0.00010045372083940181,
+      "Deaths": 0.000003212182933818081
+    }
+  },
+  {
+    "Confirmed": 309,
+    "Deaths": 21,
+    "Country_Region": "Mali",
+    "population": 19077690,
+    "per_population": {
+      "Confirmed": 0.00001619692950247121,
+      "Deaths": 0.0000011007621991970727
+    }
+  },
+  {
+    "Confirmed": 2289,
+    "Deaths": 20,
+    "Country_Region": "Kazakhstan",
+    "population": 18276499,
+    "per_population": {
+      "Confirmed": 0.00012524280498141358,
+      "Deaths": 0.0000010943014852023903
+    }
+  },
+  {
+    "Confirmed": 1548,
+    "Deaths": 20,
+    "Country_Region": "Azerbaijan",
+    "population": 9942334,
+    "per_population": {
+      "Confirmed": 0.00015569784720569638,
+      "Deaths": 0.0000020116000930968525
+    }
+  },
+  {
+    "Confirmed": 1456,
+    "Deaths": 17,
+    "Country_Region": "New Zealand",
+    "population": 4885500,
+    "per_population": {
+      "Confirmed": 0.00029802476716815065,
+      "Deaths": 0.0000034796847814962644
+    }
+  },
+  {
+    "Confirmed": 174,
+    "Deaths": 16,
+    "Country_Region": "Sudan",
+    "population": 41801533,
+    "per_population": {
+      "Confirmed": 0.000004162526766661883,
+      "Deaths": 3.8276108199189726e-7
+    }
+  },
+  {
+    "Confirmed": 328,
+    "Deaths": 16,
+    "Country_Region": "Somalia",
+    "population": 15008154,
+    "per_population": {
+      "Confirmed": 0.00002185478640477703,
+      "Deaths": 0.0000010660871416964405
+    }
+  },
+  {
+    "Confirmed": 1325,
+    "Deaths": 15,
+    "Country_Region": "Slovakia",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 1004,
+    "Deaths": 14,
+    "Country_Region": "Cote d'Ivoire",
+    "population": 25069229,
+    "per_population": {
+      "Confirmed": 0.000040049097640777065,
+      "Deaths": 5.584535527598396e-7
+    }
+  },
+  {
+    "Confirmed": 320,
+    "Deaths": 14,
+    "Country_Region": "Kenya",
+    "population": 51393010,
+    "per_population": {
+      "Confirmed": 0.000006226527693162942,
+      "Deaths": 2.724105865758787e-7
+    }
+  },
+  {
+    "Confirmed": 2399,
+    "Deaths": 14,
+    "Country_Region": "Kuwait",
+    "population": 4137309,
+    "per_population": {
+      "Confirmed": 0.0005798454986079115,
+      "Deaths": 0.0000033838420093833937
+    }
+  },
+  {
+    "Confirmed": 712,
+    "Deaths": 13,
+    "Country_Region": "Diamond Princess",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 795,
+    "Deaths": 13,
+    "Country_Region": "Cyprus",
+    "population": 1189265,
+    "per_population": {
+      "Confirmed": 0.0006684801116656086,
+      "Deaths": 0.000010931121322833852
+    }
+  },
+  {
+    "Confirmed": 11178,
+    "Deaths": 12,
+    "Country_Region": "Singapore",
+    "population": 5638676,
+    "per_population": {
+      "Confirmed": 0.0019823802608981258,
+      "Deaths": 0.0000021281591636050733
+    }
+  },
+  {
+    "Confirmed": 557,
+    "Deaths": 12,
+    "Country_Region": "Uruguay",
+    "population": 3449299,
+    "per_population": {
+      "Confirmed": 0.00016148208665007005,
+      "Deaths": 0.0000034789677554772722
+    }
+  },
+  {
+    "Confirmed": 510,
+    "Deaths": 12,
+    "Country_Region": "Kosovo",
+    "population": 1845300,
+    "per_population": {
+      "Confirmed": 0.00027637782474394405,
+      "Deaths": 0.000006503007641033978
+    }
+  },
+  {
+    "Confirmed": 778,
+    "Deaths": 11,
+    "Country_Region": "Latvia",
+    "population": 1926542,
+    "per_population": {
+      "Confirmed": 0.00040383235870279497,
+      "Deaths": 0.0000057097120125073834
+    }
+  },
+  {
+    "Confirmed": 384,
+    "Deaths": 11,
+    "Country_Region": "Guatemala",
+    "population": 17247807,
+    "per_population": {
+      "Confirmed": 0.000022263699959073057,
+      "Deaths": 6.37762238410947e-7
+    }
+  },
+  {
+    "Confirmed": 72,
+    "Deaths": 11,
+    "Country_Region": "Bahamas",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 1789,
+    "Deaths": 10,
+    "Country_Region": "Iceland",
+    "population": 353574,
+    "per_population": {
+      "Confirmed": 0.005059761181534841,
+      "Deaths": 0.00002828262259102762
+    }
+  },
+  {
+    "Confirmed": 284,
+    "Deaths": 10,
+    "Country_Region": "Tanzania",
+    "population": 56318348,
+    "per_population": {
+      "Confirmed": 0.000005042761552593837,
+      "Deaths": 1.7756202649978298e-7
+    }
+  },
+  {
+    "Confirmed": 311,
+    "Deaths": 10,
+    "Country_Region": "Venezuela",
+    "population": 28870195,
+    "per_population": {
+      "Confirmed": 0.000010772355365109241,
+      "Deaths": 3.463779860163743e-7
+    }
+  },
+  {
+    "Confirmed": 7764,
+    "Deaths": 10,
+    "Country_Region": "Qatar",
+    "population": 2781677,
+    "per_population": {
+      "Confirmed": 0.0027911220461613625,
+      "Deaths": 0.0000035949536916040215
+    }
+  },
+  {
+    "Confirmed": 1716,
+    "Deaths": 9,
+    "Country_Region": "Oman",
+    "population": 4829483,
+    "per_population": {
+      "Confirmed": 0.0003553175360592428,
+      "Deaths": 0.0000018635535108002244
+    }
+  },
+  {
+    "Confirmed": 213,
+    "Deaths": 9,
+    "Country_Region": "Paraguay",
+    "population": 6956071,
+    "per_population": {
+      "Confirmed": 0.000030620734032185696,
+      "Deaths": 0.0000012938338323458746
+    }
+  },
+  {
+    "Confirmed": 1154,
+    "Deaths": 9,
+    "Country_Region": "Ghana",
+    "population": 29767108,
+    "per_population": {
+      "Confirmed": 0.000038767622303113896,
+      "Deaths": 3.023471410121534e-7
+    }
+  },
+  {
+    "Confirmed": 331,
+    "Deaths": 9,
+    "Country_Region": "Mauritius",
+    "population": 1265303,
+    "per_population": {
+      "Confirmed": 0.0002615974197484713,
+      "Deaths": 0.0000071129207786593405
+    }
+  },
+  {
+    "Confirmed": 250,
+    "Deaths": 8,
+    "Country_Region": "El Salvador",
+    "population": 6420744,
+    "per_population": {
+      "Confirmed": 0.000038936297724998844,
+      "Deaths": 0.0000012459615271999632
+    }
+  },
+  {
+    "Confirmed": 2217,
+    "Deaths": 8,
+    "Country_Region": "Bahrain",
+    "population": 1569439,
+    "per_population": {
+      "Confirmed": 0.0014126066702815465,
+      "Deaths": 0.000005097362815630298
+    }
+  },
+  {
+    "Confirmed": 631,
+    "Deaths": 8,
+    "Country_Region": "Kyrgyzstan",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 101,
+    "Deaths": 8,
+    "Country_Region": "Liberia",
+    "population": 4818977,
+    "per_population": {
+      "Confirmed": 0.00002095880515719415,
+      "Deaths": 0.0000016601033787876555
+    }
+  },
+  {
+    "Confirmed": 115,
+    "Deaths": 8,
+    "Country_Region": "Trinidad and Tobago",
+    "population": 1389858,
+    "per_population": {
+      "Confirmed": 0.00008274226575664564,
+      "Deaths": 0.000005755983704810132
+    }
+  },
+  {
+    "Confirmed": 437,
+    "Deaths": 7,
+    "Country_Region": "Jordan",
+    "population": 9956011,
+    "per_population": {
+      "Confirmed": 0.000043893081275221574,
+      "Deaths": 7.030928350721991e-7
+    }
+  },
+  {
+    "Confirmed": 1758,
+    "Deaths": 7,
+    "Country_Region": "Uzbekistan",
+    "population": 32955400,
+    "per_population": {
+      "Confirmed": 0.000053344823610091216,
+      "Deaths": 2.1240828513688196e-7
+    }
+  },
+  {
+    "Confirmed": 368,
+    "Deaths": 7,
+    "Country_Region": "Sri Lanka",
+    "population": 21670000,
+    "per_population": {
+      "Confirmed": 0.0000169820027688048,
+      "Deaths": 3.230272265805261e-7
+    }
+  },
+  {
+    "Confirmed": 70,
+    "Deaths": 7,
+    "Country_Region": "Guyana",
+    "population": 779004,
+    "per_population": {
+      "Confirmed": 0.00008985833192127384,
+      "Deaths": 0.000008985833192127382
+    }
+  },
+  {
+    "Confirmed": 186,
+    "Deaths": 6,
+    "Country_Region": "Congo (Brazzaville)",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 88,
+    "Deaths": 6,
+    "Country_Region": "Togo",
+    "population": 7889094,
+    "per_population": {
+      "Confirmed": 0.00001115463955683631,
+      "Deaths": 7.605436061479303e-7
+    }
+  },
+  {
+    "Confirmed": 76,
+    "Deaths": 6,
+    "Country_Region": "Barbados",
+    "population": 286641,
+    "per_population": {
+      "Confirmed": 0.00026514001835048023,
+      "Deaths": 0.000020932106711880017
+    }
+  },
+  {
+    "Confirmed": 479,
+    "Deaths": 6,
+    "Country_Region": "Senegal",
+    "population": 15854360,
+    "per_population": {
+      "Confirmed": 0.000030212509366508646,
+      "Deaths": 3.7844479373497257e-7
+    }
+  },
+  {
+    "Confirmed": 427,
+    "Deaths": 6,
+    "Country_Region": "Taiwan*",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 862,
+    "Deaths": 6,
+    "Country_Region": "Guinea",
+    "population": 12414318,
+    "per_population": {
+      "Confirmed": 0.00006943595290534688,
+      "Deaths": 4.833128972529945e-7
+    }
+  },
+  {
+    "Confirmed": 257,
+    "Deaths": 6,
+    "Country_Region": "Jamaica",
+    "population": 2934855,
+    "per_population": {
+      "Confirmed": 0.00008756821035451496,
+      "Deaths": 0.000002044394016058715
+    }
+  },
+  {
+    "Confirmed": 686,
+    "Deaths": 6,
+    "Country_Region": "Costa Rica",
+    "population": 4999441,
+    "per_population": {
+      "Confirmed": 0.00013721534067508747,
+      "Deaths": 0.000001200134175000765
+    }
+  },
+  {
+    "Confirmed": 72,
+    "Deaths": 5,
+    "Country_Region": "Haiti",
+    "population": 11123176,
+    "per_population": {
+      "Confirmed": 0.000006472971388747243,
+      "Deaths": 4.495119019963363e-7
+    }
+  },
+  {
+    "Confirmed": 316,
+    "Deaths": 5,
+    "Country_Region": "Montenegro",
+    "population": 622345,
+    "per_population": {
+      "Confirmed": 0.0005077569515300999,
+      "Deaths": 0.000008034128979906643
+    }
+  },
+  {
+    "Confirmed": 425,
+    "Deaths": 5,
+    "Country_Region": "Georgia",
+    "population": 3731000,
+    "per_population": {
+      "Confirmed": 0.0001139104797641383,
+      "Deaths": 0.0000013401232913428035
+    }
+  },
+  {
+    "Confirmed": 139,
+    "Deaths": 5,
+    "Country_Region": "Burma",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 28,
+    "Deaths": 4,
+    "Country_Region": "Zimbabwe",
+    "population": 14439018,
+    "per_population": {
+      "Confirmed": 0.0000019391900474118113,
+      "Deaths": 2.770271496302588e-7
+    }
+  },
+  {
+    "Confirmed": 480,
+    "Deaths": 4,
+    "Country_Region": "West Bank and Gaza",
+    "population": 4569087,
+    "per_population": {
+      "Confirmed": 0.00010505381053151319,
+      "Deaths": 8.754484210959432e-7
+    }
+  },
+  {
+    "Confirmed": 94,
+    "Deaths": 4,
+    "Country_Region": "Monaco",
+    "population": 38682,
+    "per_population": {
+      "Confirmed": 0.0024300708339796287,
+      "Deaths": 0.00010340726953104803
+    }
+  },
+  {
+    "Confirmed": 42,
+    "Deaths": 3,
+    "Country_Region": "Syria",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 33,
+    "Deaths": 3,
+    "Country_Region": "Malawi",
+    "population": 18143315,
+    "per_population": {
+      "Confirmed": 0.0000018188517368518376,
+      "Deaths": 1.653501578956216e-7
+    }
+  },
+  {
+    "Confirmed": 11,
+    "Deaths": 3,
+    "Country_Region": "Nicaragua",
+    "population": 6465513,
+    "per_population": {
+      "Confirmed": 0.0000017013344494087322,
+      "Deaths": 4.6400030438419966e-7
+    }
+  },
+  {
+    "Confirmed": 76,
+    "Deaths": 3,
+    "Country_Region": "Zambia",
+    "population": 17351822,
+    "per_population": {
+      "Confirmed": 0.00000437994350103407,
+      "Deaths": 1.7289250661976593e-7
+    }
+  },
+  {
+    "Confirmed": 24,
+    "Deaths": 3,
+    "Country_Region": "Antigua and Barbuda",
+    "population": 96286,
+    "per_population": {
+      "Confirmed": 0.00024925742060112583,
+      "Deaths": 0.00003115717757514073
+    }
+  },
+  {
+    "Confirmed": 445,
+    "Deaths": 3,
+    "Country_Region": "Malta",
+    "population": 483530,
+    "per_population": {
+      "Confirmed": 0.0009203151820983186,
+      "Deaths": 0.000006204372014145968
+    }
+  },
+  {
+    "Confirmed": 116,
+    "Deaths": 3,
+    "Country_Region": "Ethiopia",
+    "population": 109224559,
+    "per_population": {
+      "Confirmed": 0.000001062032212004628,
+      "Deaths": 2.7466350310464516e-8
+    }
+  },
+  {
+    "Confirmed": 986,
+    "Deaths": 2,
+    "Country_Region": "Djibouti",
+    "population": 958920,
+    "per_population": {
+      "Confirmed": 0.0010282401034497142,
+      "Deaths": 0.0000020856797230217328
+    }
+  },
+  {
+    "Confirmed": 18,
+    "Deaths": 2,
+    "Country_Region": "Belize",
+    "population": 383071,
+    "per_population": {
+      "Confirmed": 0.00004698867833900243,
+      "Deaths": 0.000005220964259889159
+    }
+  },
+  {
+    "Confirmed": 25,
+    "Deaths": 2,
+    "Country_Region": "Angola",
+    "population": 30809762,
+    "per_population": {
+      "Confirmed": 8.114311301723135e-7,
+      "Deaths": 6.491449041378508e-8
+    }
+  },
+  {
+    "Confirmed": 60,
+    "Deaths": 2,
+    "Country_Region": "Libya",
+    "population": 6678567,
+    "per_population": {
+      "Confirmed": 0.000008983963176531732,
+      "Deaths": 2.994654392177244e-7
+    }
+  },
+  {
+    "Confirmed": 9,
+    "Deaths": 2,
+    "Country_Region": "MS Zaandam",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 167,
+    "Deaths": 2,
+    "Country_Region": "Gabon",
+    "population": 2119275,
+    "per_population": {
+      "Confirmed": 0.00007880053320121268,
+      "Deaths": 9.437189604935651e-7
+    }
+  },
+  {
+    "Confirmed": 138,
+    "Deaths": 1,
+    "Country_Region": "Brunei",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 7,
+    "Deaths": 1,
+    "Country_Region": "Mauritania",
+    "population": 4403319,
+    "per_population": {
+      "Confirmed": 0.0000015897099437946693,
+      "Deaths": 2.2710142054209564e-7
+    }
+  },
+  {
+    "Confirmed": 81,
+    "Deaths": 1,
+    "Country_Region": "Liechtenstein",
+    "population": 37910,
+    "per_population": {
+      "Confirmed": 0.0021366394091268796,
+      "Deaths": 0.000026378264310208388
+    }
+  },
+  {
+    "Confirmed": 84,
+    "Deaths": 1,
+    "Country_Region": "Equatorial Guinea",
+    "population": 1308974,
+    "per_population": {
+      "Confirmed": 0.0000641723976182873,
+      "Deaths": 7.639571145034202e-7
+    }
+  },
+  {
+    "Confirmed": 10,
+    "Deaths": 1,
+    "Country_Region": "Suriname",
+    "population": 575991,
+    "per_population": {
+      "Confirmed": 0.00001736138238271084,
+      "Deaths": 0.000001736138238271084
+    }
+  },
+  {
+    "Confirmed": 31,
+    "Deaths": 1,
+    "Country_Region": "Eswatini",
+    "population": 1136191,
+    "per_population": {
+      "Confirmed": 0.00002728414500730951,
+      "Deaths": 8.8013370991321e-7
+    }
+  },
+  {
+    "Confirmed": 64,
+    "Deaths": 1,
+    "Country_Region": "Sierra Leone",
+    "population": 7650154,
+    "per_population": {
+      "Confirmed": 0.000008365844661427731,
+      "Deaths": 1.307163228348083e-7
+    }
+  },
+  {
+    "Confirmed": 10,
+    "Deaths": 1,
+    "Country_Region": "Gambia",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 82,
+    "Deaths": 1,
+    "Country_Region": "Cabo Verde",
+    "population": 543767,
+    "per_population": {
+      "Confirmed": 0.0001507998830381395,
+      "Deaths": 0.0000018390229638797499
+    }
+  },
+  {
+    "Confirmed": 54,
+    "Deaths": 1,
+    "Country_Region": "Benin",
+    "population": 11485048,
+    "per_population": {
+      "Confirmed": 0.000004701765286483783,
+      "Deaths": 8.706972752747746e-8
+    }
+  },
+  {
+    "Confirmed": 22,
+    "Deaths": 1,
+    "Country_Region": "Botswana",
+    "population": 2254126,
+    "per_population": {
+      "Confirmed": 0.000009759880326121965,
+      "Deaths": 4.436309239146348e-7
+    }
+  },
+  {
+    "Confirmed": 11,
+    "Deaths": 1,
+    "Country_Region": "Burundi",
+    "population": 11175378,
+    "per_population": {
+      "Confirmed": 9.843067500714516e-7,
+      "Deaths": 8.948243182467743e-8
+    }
+  },
+  {
+    "Confirmed": 16,
+    "Deaths": 0,
+    "Country_Region": "Dominica",
+    "population": 71625,
+    "per_population": {
+      "Confirmed": 0.00022338568935427575,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 5,
+    "Deaths": 0,
+    "Country_Region": "South Sudan",
+    "population": 10975920,
+    "per_population": {
+      "Confirmed": 4.5554267888249916e-7,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 121,
+    "Deaths": 0,
+    "Country_Region": "Madagascar",
+    "population": 26262368,
+    "per_population": {
+      "Confirmed": 0.000004607353000308274,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 7,
+    "Deaths": 0,
+    "Country_Region": "Bhutan",
+    "population": 754394,
+    "per_population": {
+      "Confirmed": 0.000009278970935611895,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 8,
+    "Deaths": 0,
+    "Country_Region": "Papua New Guinea",
+    "population": 8606316,
+    "per_population": {
+      "Confirmed": 9.295498794141419e-7,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 15,
+    "Deaths": 0,
+    "Country_Region": "Saint Lucia",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 39,
+    "Deaths": 0,
+    "Country_Region": "Eritrea",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 15,
+    "Deaths": 0,
+    "Country_Region": "Saint Kitts and Nevis",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 15,
+    "Deaths": 0,
+    "Country_Region": "Grenada",
+    "population": 111454,
+    "per_population": {
+      "Confirmed": 0.00013458467170312415,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 11,
+    "Deaths": 0,
+    "Country_Region": "Seychelles",
+    "population": 96762,
+    "per_population": {
+      "Confirmed": 0.00011368099047146607,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 13,
+    "Deaths": 0,
+    "Country_Region": "Saint Vincent and the Grenadines",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 108,
+    "Deaths": 0,
+    "Country_Region": "Maldives",
+    "population": 515696,
+    "per_population": {
+      "Confirmed": 0.00020942570816915391,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 23,
+    "Deaths": 0,
+    "Country_Region": "Timor-Leste",
+    "population": 1267972,
+    "per_population": {
+      "Confirmed": 0.000018139201812027397,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 48,
+    "Deaths": 0,
+    "Country_Region": "Nepal",
+    "population": 28087871,
+    "per_population": {
+      "Confirmed": 0.0000017089226876611616,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 16,
+    "Deaths": 0,
+    "Country_Region": "Namibia",
+    "population": 2448255,
+    "per_population": {
+      "Confirmed": 0.000006535266955443775,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 33,
+    "Deaths": 0,
+    "Country_Region": "Chad",
+    "population": 15477751,
+    "per_population": {
+      "Confirmed": 0.0000021320927051998705,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 16,
+    "Deaths": 0,
+    "Country_Region": "Central African Republic",
+    "population": 4666377,
+    "per_population": {
+      "Confirmed": 0.0000034287842581085926,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 74,
+    "Deaths": 0,
+    "Country_Region": "Uganda",
+    "population": 42723139,
+    "per_population": {
+      "Confirmed": 0.0000017320824670677873,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 122,
+    "Deaths": 0,
+    "Country_Region": "Cambodia",
+    "population": 16249798,
+    "per_population": {
+      "Confirmed": 0.000007507785635242973,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 154,
+    "Deaths": 0,
+    "Country_Region": "Rwanda",
+    "population": 12301939,
+    "per_population": {
+      "Confirmed": 0.000012518351781780092,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 50,
+    "Deaths": 0,
+    "Country_Region": "Guinea-Bissau",
+    "population": 1874309,
+    "per_population": {
+      "Confirmed": 0.00002667649784533927,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 46,
+    "Deaths": 0,
+    "Country_Region": "Mozambique",
+    "population": 29495962,
+    "per_population": {
+      "Confirmed": 0.0000015595355052328858,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 9,
+    "Deaths": 0,
+    "Country_Region": "Holy See",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 268,
+    "Deaths": 0,
+    "Country_Region": "Vietnam",
+    "population": 95540395,
+    "per_population": {
+      "Confirmed": 0.000002805096210874992,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 36,
+    "Deaths": 0,
+    "Country_Region": "Mongolia",
+    "population": 3170208,
+    "per_population": {
+      "Confirmed": 0.00001135572176967568,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 6,
+    "Deaths": 0,
+    "Country_Region": "Western Sahara",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 1,
+    "Deaths": 0,
+    "Country_Region": "Yemen",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 19,
+    "Deaths": 0,
+    "Country_Region": "Laos",
+    "population": 0,
+    "per_population": {
+      "Confirmed": null,
+      "Deaths": null
+    }
+  },
+  {
+    "Confirmed": 4,
+    "Deaths": 0,
+    "Country_Region": "Sao Tome and Principe",
+    "population": 211028,
+    "per_population": {
+      "Confirmed": 0.000018954830638588245,
+      "Deaths": 0
+    }
+  },
+  {
+    "Confirmed": 18,
+    "Deaths": 0,
+    "Country_Region": "Fiji",
+    "population": 883483,
+    "per_population": {
+      "Confirmed": 0.000020373906458867913,
+      "Deaths": 0
+    }
+  }
+]
