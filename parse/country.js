@@ -64,7 +64,7 @@ const records = parse(input, {
 });
 
 // const nrecords = records.filter((item, index) => index < 4);
-const renames = {
+const prop_renames = {
   'Province/State': 'Province_State',
   'Country/Region': 'Country_Region',
 };
@@ -81,8 +81,8 @@ function calc(sums, item) {
 }
 
 function rename_item(item) {
-  for (let prop in renames) {
-    const nprop = renames[prop];
+  for (let prop in prop_renames) {
+    const nprop = prop_renames[prop];
     const val = item[prop];
     if (val) item[nprop] = val;
   }
@@ -158,6 +158,7 @@ console.log('sums.length', sums.length, '\n');
 
 for (let index = 0; index < 20; index++) {
   console.log('sums[' + index + ']', JSON.stringify(sums[index]));
+  // console.log('sums[' + index + ']', sums[index]);
 }
 // for (let index = sums.length - 20; index < sums.length; index++) {
 //   console.log('sums[' + index + ']', JSON.stringify(sums[index]));
@@ -168,28 +169,14 @@ console.log(outpath_summary, '\n');
 fs.writeJsonSync(outpath_summary, sums, { spaces: 2 });
 fs.writeJsonSync(outpath_detail, records, { spaces: 2 });
 
-// sums[0] {"Confirmed":869170,"Deaths":49954,"Country_Region":"US"}
-// "country_name": "United States",
-
-// sums[7] {"Confirmed":87026,"Deaths":5481,"Country_Region":"Iran"}
-// "country_name": "Iran, Islamic Rep.",
-
-// sums[1] {"Confirmed":189973,"Deaths":25549,"Country_Region":"Italy"}
-// sums[2] {"Confirmed":213024,"Deaths":22157,"Country_Region":"Spain"}
-// sums[3] {"Confirmed":159460,"Deaths":21889,"Country_Region":"France"}
-// sums[4] {"Confirmed":139246,"Deaths":18791,"Country_Region":"United Kingdom"}
-// sums[5] {"Confirmed":42797,"Deaths":6490,"Country_Region":"Belgium"}
-// sums[6] {"Confirmed":153129,"Deaths":5575,"Country_Region":"Germany"}
-
-// sums[8] {"Confirmed":83884,"Deaths":4636,"Country_Region":"China"}
-// sums[9] {"Confirmed":35921,"Deaths":4192,"Country_Region":"Netherlands"}
-// sums[10] {"Confirmed":50036,"Deaths":3331,"Country_Region":"Brazil"}
-// sums[11] {"Confirmed":101790,"Deaths":2491,"Country_Region":"Turkey"}
-// sums[12] {"Confirmed":43286,"Deaths":2241,"Country_Region":"Canada"}
-// sums[13] {"Confirmed":16755,"Deaths":2021,"Country_Region":"Sweden"}
-// sums[14] {"Confirmed":28496,"Deaths":1549,"Country_Region":"Switzerland"}
-// sums[15] {"Confirmed":11633,"Deaths":1069,"Country_Region":"Mexico"}
-// sums[16] {"Confirmed":22353,"Deaths":820,"Country_Region":"Portugal"}
-// sums[17] {"Confirmed":17607,"Deaths":794,"Country_Region":"Ireland"}
-// sums[18] {"Confirmed":23077,"Deaths":721,"Country_Region":"India"}
-// sums[19] {"Confirmed":7775,"Deaths":647,"Country_Region":"Indonesia"}
+// sums[0] {"Confirmed":869170,"Deaths":49954,"Country_Region":"US","population":327167434,"per_1000":{"Confirmed":2.6566519453766904,"Deaths":0.15268634591546787}}
+// sums[1] {"Confirmed":189973,"Deaths":25549,"Country_Region":"Italy","population":60431283,"per_1000":{"Confirmed":3.143620167720086,"Deaths":0.42277771928158464}}
+// sums[2] {"Confirmed":213024,"Deaths":22157,"Country_Region":"Spain","population":46723749,"per_1000":{"Confirmed":4.559223190758944,"Deaths":0.4742128034289372}}
+// sums[3] {"Confirmed":159460,"Deaths":21889,"Country_Region":"France","population":66987244,"per_1000":{"Confirmed":2.380453209867837,"Deaths":0.32676370444498354}}
+// sums[4] {"Confirmed":139246,"Deaths":18791,"Country_Region":"United Kingdom","population":66488991,"per_1000":{"Confirmed":2.0942715163176415,"Deaths":0.28261821569829504}}
+// sums[5] {"Confirmed":42797,"Deaths":6490,"Country_Region":"Belgium","population":11422068,"per_1000":{"Confirmed":3.7468696561778483,"Deaths":0.5681983332615425}}
+// sums[6] {"Confirmed":153129,"Deaths":5575,"Country_Region":"Germany","population":82927922,"per_1000":{"Confirmed":1.8465312563843093,"Deaths":0.06722705532160808}}
+// sums[7] {"Confirmed":87026,"Deaths":5481,"Country_Region":"Iran","population":81800269,"per_1000":{"Confirmed":1.0638840319706038,"Deaths":0.06700466963012065}}
+// sums[8] {"Confirmed":83884,"Deaths":4636,"Country_Region":"China","population":1392730000,"per_1000":{"Confirmed":0.060229908165976176,"Deaths":0.00332871410826219}}
+// sums[9] {"Confirmed":35921,"Deaths":4192,"Country_Region":"Netherlands","population":17231017,"per_1000":{"Confirmed":2.084670916406153,"Deaths":0.24328221601777772}}
+// sums[10] {"Confirmed":50036,"Deaths":3331,"Country_Region":"Brazil","population":209469333,"per_1000":{"Confirmed":0.23887028847320577,"Deaths":0.015902089113922945}}
