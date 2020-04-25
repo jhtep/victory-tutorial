@@ -1,1050 +1,1050 @@
 [
   {
-    "Country_Region": "Afghanistan",
+    "country_name": "Afghanistan",
     "population": 37172386
   },
   {
-    "Country_Region": "Albania",
+    "country_name": "Albania",
     "population": 2866376
   },
   {
-    "Country_Region": "Algeria",
+    "country_name": "Algeria",
     "population": 42228429
   },
   {
-    "Country_Region": "American Samoa",
+    "country_name": "American Samoa",
     "population": 55465
   },
   {
-    "Country_Region": "Andorra",
+    "country_name": "Andorra",
     "population": 77006
   },
   {
-    "Country_Region": "Angola",
+    "country_name": "Angola",
     "population": 30809762
   },
   {
-    "Country_Region": "Antigua and Barbuda",
+    "country_name": "Antigua and Barbuda",
     "population": 96286
   },
   {
-    "Country_Region": "Arab World",
+    "country_name": "Arab World",
     "population": 419790588
   },
   {
-    "Country_Region": "Argentina",
+    "country_name": "Argentina",
     "population": 44494502
   },
   {
-    "Country_Region": "Armenia",
+    "country_name": "Armenia",
     "population": 2951776
   },
   {
-    "Country_Region": "Aruba",
+    "country_name": "Aruba",
     "population": 105845
   },
   {
-    "Country_Region": "Australia",
+    "country_name": "Australia",
     "population": 24992369
   },
   {
-    "Country_Region": "Austria",
+    "country_name": "Austria",
     "population": 8847037
   },
   {
-    "Country_Region": "Azerbaijan",
+    "country_name": "Azerbaijan",
     "population": 9942334
   },
   {
-    "Country_Region": "Bahamas, The",
+    "country_name": "Bahamas, The",
     "population": 385640
   },
   {
-    "Country_Region": "Bahrain",
+    "country_name": "Bahrain",
     "population": 1569439
   },
   {
-    "Country_Region": "Bangladesh",
+    "country_name": "Bangladesh",
     "population": 161356039
   },
   {
-    "Country_Region": "Barbados",
+    "country_name": "Barbados",
     "population": 286641
   },
   {
-    "Country_Region": "Belarus",
+    "country_name": "Belarus",
     "population": 9485386
   },
   {
-    "Country_Region": "Belgium",
+    "country_name": "Belgium",
     "population": 11422068
   },
   {
-    "Country_Region": "Belize",
+    "country_name": "Belize",
     "population": 383071
   },
   {
-    "Country_Region": "Benin",
+    "country_name": "Benin",
     "population": 11485048
   },
   {
-    "Country_Region": "Bermuda",
+    "country_name": "Bermuda",
     "population": 63968
   },
   {
-    "Country_Region": "Bhutan",
+    "country_name": "Bhutan",
     "population": 754394
   },
   {
-    "Country_Region": "Bolivia",
+    "country_name": "Bolivia",
     "population": 11353142
   },
   {
-    "Country_Region": "Bosnia and Herzegovina",
+    "country_name": "Bosnia and Herzegovina",
     "population": 3323929
   },
   {
-    "Country_Region": "Botswana",
+    "country_name": "Botswana",
     "population": 2254126
   },
   {
-    "Country_Region": "Brazil",
+    "country_name": "Brazil",
     "population": 209469333
   },
   {
-    "Country_Region": "British Virgin Islands",
+    "country_name": "British Virgin Islands",
     "population": 29802
   },
   {
-    "Country_Region": "Brunei Darussalam",
+    "country_name": "Brunei Darussalam",
     "population": 428962
   },
   {
-    "Country_Region": "Bulgaria",
+    "country_name": "Bulgaria",
     "population": 7024216
   },
   {
-    "Country_Region": "Burkina Faso",
+    "country_name": "Burkina Faso",
     "population": 19751535
   },
   {
-    "Country_Region": "Burundi",
+    "country_name": "Burundi",
     "population": 11175378
   },
   {
-    "Country_Region": "Cabo Verde",
+    "country_name": "Cabo Verde",
     "population": 543767
   },
   {
-    "Country_Region": "Cambodia",
+    "country_name": "Cambodia",
     "population": 16249798
   },
   {
-    "Country_Region": "Cameroon",
+    "country_name": "Cameroon",
     "population": 25216237
   },
   {
-    "Country_Region": "Canada",
+    "country_name": "Canada",
     "population": 37058856
   },
   {
-    "Country_Region": "Caribbean small states",
+    "country_name": "Caribbean small states",
     "population": 7358965
   },
   {
-    "Country_Region": "Cayman Islands",
+    "country_name": "Cayman Islands",
     "population": 64174
   },
   {
-    "Country_Region": "Central African Republic",
+    "country_name": "Central African Republic",
     "population": 4666377
   },
   {
-    "Country_Region": "Central Europe and the Baltics",
+    "country_name": "Central Europe and the Baltics",
     "population": 102511922
   },
   {
-    "Country_Region": "Chad",
+    "country_name": "Chad",
     "population": 15477751
   },
   {
-    "Country_Region": "Channel Islands",
+    "country_name": "Channel Islands",
     "population": 170499
   },
   {
-    "Country_Region": "Chile",
+    "country_name": "Chile",
     "population": 18729160
   },
   {
-    "Country_Region": "China",
+    "country_name": "China",
     "population": 1392730000
   },
   {
-    "Country_Region": "Colombia",
+    "country_name": "Colombia",
     "population": 49648685
   },
   {
-    "Country_Region": "Comoros",
+    "country_name": "Comoros",
     "population": 832322
   },
   {
-    "Country_Region": "Congo, Dem. Rep.",
+    "country_name": "Congo, Dem. Rep.",
     "population": 84068091
   },
   {
-    "Country_Region": "Congo, Rep.",
+    "country_name": "Congo, Rep.",
     "population": 5244363
   },
   {
-    "Country_Region": "Costa Rica",
+    "country_name": "Costa Rica",
     "population": 4999441
   },
   {
-    "Country_Region": "Cote d'Ivoire",
+    "country_name": "Cote d'Ivoire",
     "population": 25069229
   },
   {
-    "Country_Region": "Croatia",
+    "country_name": "Croatia",
     "population": 4089400
   },
   {
-    "Country_Region": "Cuba",
+    "country_name": "Cuba",
     "population": 11338138
   },
   {
-    "Country_Region": "Curacao",
+    "country_name": "Curacao",
     "population": 159849
   },
   {
-    "Country_Region": "Cyprus",
+    "country_name": "Cyprus",
     "population": 1189265
   },
   {
-    "Country_Region": "Czech Republic",
+    "country_name": "Czech Republic",
     "population": 10625695
   },
   {
-    "Country_Region": "Denmark",
+    "country_name": "Denmark",
     "population": 5797446
   },
   {
-    "Country_Region": "Djibouti",
+    "country_name": "Djibouti",
     "population": 958920
   },
   {
-    "Country_Region": "Dominica",
+    "country_name": "Dominica",
     "population": 71625
   },
   {
-    "Country_Region": "Dominican Republic",
+    "country_name": "Dominican Republic",
     "population": 10627165
   },
   {
-    "Country_Region": "Early-demographic dividend",
+    "country_name": "Early-demographic dividend",
     "population": 3249140605
   },
   {
-    "Country_Region": "East Asia & Pacific",
+    "country_name": "East Asia & Pacific",
     "population": 2328220870
   },
   {
-    "Country_Region": "East Asia & Pacific (excluding high income)",
+    "country_name": "East Asia & Pacific (excluding high income)",
     "population": 2081651801
   },
   {
-    "Country_Region": "East Asia & Pacific (IDA & IBRD countries)",
+    "country_name": "East Asia & Pacific (IDA & IBRD countries)",
     "population": 2056064424
   },
   {
-    "Country_Region": "Ecuador",
+    "country_name": "Ecuador",
     "population": 17084357
   },
   {
-    "Country_Region": "Egypt, Arab Rep.",
+    "country_name": "Egypt, Arab Rep.",
     "population": 98423595
   },
   {
-    "Country_Region": "El Salvador",
+    "country_name": "El Salvador",
     "population": 6420744
   },
   {
-    "Country_Region": "Equatorial Guinea",
+    "country_name": "Equatorial Guinea",
     "population": 1308974
   },
   {
-    "Country_Region": "Estonia",
+    "country_name": "Estonia",
     "population": 1320884
   },
   {
-    "Country_Region": "Eswatini",
+    "country_name": "Eswatini",
     "population": 1136191
   },
   {
-    "Country_Region": "Ethiopia",
+    "country_name": "Ethiopia",
     "population": 109224559
   },
   {
-    "Country_Region": "Euro area",
+    "country_name": "Euro area",
     "population": 341783171
   },
   {
-    "Country_Region": "Europe & Central Asia",
+    "country_name": "Europe & Central Asia",
     "population": 918793590
   },
   {
-    "Country_Region": "Europe & Central Asia (excluding high income)",
+    "country_name": "Europe & Central Asia (excluding high income)",
     "population": 417797257
   },
   {
-    "Country_Region": "Europe & Central Asia (IDA & IBRD countries)",
+    "country_name": "Europe & Central Asia (IDA & IBRD countries)",
     "population": 459865205
   },
   {
-    "Country_Region": "European Union",
+    "country_name": "European Union",
     "population": 513213363
   },
   {
-    "Country_Region": "Faroe Islands",
+    "country_name": "Faroe Islands",
     "population": 48497
   },
   {
-    "Country_Region": "Fiji",
+    "country_name": "Fiji",
     "population": 883483
   },
   {
-    "Country_Region": "Finland",
+    "country_name": "Finland",
     "population": 5518050
   },
   {
-    "Country_Region": "Fragile and conflict affected situations",
+    "country_name": "Fragile and conflict affected situations",
     "population": 515215936
   },
   {
-    "Country_Region": "France",
+    "country_name": "France",
     "population": 66987244
   },
   {
-    "Country_Region": "French Polynesia",
+    "country_name": "French Polynesia",
     "population": 277679
   },
   {
-    "Country_Region": "Gabon",
+    "country_name": "Gabon",
     "population": 2119275
   },
   {
-    "Country_Region": "Gambia, The",
+    "country_name": "Gambia, The",
     "population": 2280102
   },
   {
-    "Country_Region": "Georgia",
+    "country_name": "Georgia",
     "population": 3731000
   },
   {
-    "Country_Region": "Germany",
+    "country_name": "Germany",
     "population": 82927922
   },
   {
-    "Country_Region": "Ghana",
+    "country_name": "Ghana",
     "population": 29767108
   },
   {
-    "Country_Region": "Gibraltar",
+    "country_name": "Gibraltar",
     "population": 33718
   },
   {
-    "Country_Region": "Greece",
+    "country_name": "Greece",
     "population": 10727668
   },
   {
-    "Country_Region": "Greenland",
+    "country_name": "Greenland",
     "population": 56025
   },
   {
-    "Country_Region": "Grenada",
+    "country_name": "Grenada",
     "population": 111454
   },
   {
-    "Country_Region": "Guam",
+    "country_name": "Guam",
     "population": 165768
   },
   {
-    "Country_Region": "Guatemala",
+    "country_name": "Guatemala",
     "population": 17247807
   },
   {
-    "Country_Region": "Guinea",
+    "country_name": "Guinea",
     "population": 12414318
   },
   {
-    "Country_Region": "Guinea-Bissau",
+    "country_name": "Guinea-Bissau",
     "population": 1874309
   },
   {
-    "Country_Region": "Guyana",
+    "country_name": "Guyana",
     "population": 779004
   },
   {
-    "Country_Region": "Haiti",
+    "country_name": "Haiti",
     "population": 11123176
   },
   {
-    "Country_Region": "Heavily indebted poor countries (HIPC)",
+    "country_name": "Heavily indebted poor countries (HIPC)",
     "population": 780234406
   },
   {
-    "Country_Region": "High income",
+    "country_name": "High income",
     "population": 1210312147
   },
   {
-    "Country_Region": "Honduras",
+    "country_name": "Honduras",
     "population": 9587522
   },
   {
-    "Country_Region": "Hong Kong SAR, China",
+    "country_name": "Hong Kong SAR, China",
     "population": 7451000
   },
   {
-    "Country_Region": "Hungary",
+    "country_name": "Hungary",
     "population": 9768785
   },
   {
-    "Country_Region": "IBRD only",
+    "country_name": "IBRD only",
     "population": 4772284113
   },
   {
-    "Country_Region": "Iceland",
+    "country_name": "Iceland",
     "population": 353574
   },
   {
-    "Country_Region": "IDA & IBRD total",
+    "country_name": "IDA & IBRD total",
     "population": 6412522234
   },
   {
-    "Country_Region": "IDA blend",
+    "country_name": "IDA blend",
     "population": 555830605
   },
   {
-    "Country_Region": "IDA only",
+    "country_name": "IDA only",
     "population": 1084407516
   },
   {
-    "Country_Region": "IDA total",
+    "country_name": "IDA total",
     "population": 1640238121
   },
   {
-    "Country_Region": "India",
+    "country_name": "India",
     "population": 1352617328
   },
   {
-    "Country_Region": "Indonesia",
+    "country_name": "Indonesia",
     "population": 267663435
   },
   {
-    "Country_Region": "Iran, Islamic Rep.",
+    "country_name": "Iran, Islamic Rep.",
     "population": 81800269
   },
   {
-    "Country_Region": "Iraq",
+    "country_name": "Iraq",
     "population": 38433600
   },
   {
-    "Country_Region": "Ireland",
+    "country_name": "Ireland",
     "population": 4853506
   },
   {
-    "Country_Region": "Isle of Man",
+    "country_name": "Isle of Man",
     "population": 84077
   },
   {
-    "Country_Region": "Israel",
+    "country_name": "Israel",
     "population": 8883800
   },
   {
-    "Country_Region": "Italy",
+    "country_name": "Italy",
     "population": 60431283
   },
   {
-    "Country_Region": "Jamaica",
+    "country_name": "Jamaica",
     "population": 2934855
   },
   {
-    "Country_Region": "Japan",
+    "country_name": "Japan",
     "population": 126529100
   },
   {
-    "Country_Region": "Jordan",
+    "country_name": "Jordan",
     "population": 9956011
   },
   {
-    "Country_Region": "Kazakhstan",
+    "country_name": "Kazakhstan",
     "population": 18276499
   },
   {
-    "Country_Region": "Kenya",
+    "country_name": "Kenya",
     "population": 51393010
   },
   {
-    "Country_Region": "Kiribati",
+    "country_name": "Kiribati",
     "population": 115847
   },
   {
-    "Country_Region": "Korea, Dem. People’s Rep.",
+    "country_name": "Korea, Dem. People’s Rep.",
     "population": 25549819
   },
   {
-    "Country_Region": "Korea, Rep.",
+    "country_name": "Korea, Rep.",
     "population": 51635256
   },
   {
-    "Country_Region": "Kosovo",
+    "country_name": "Kosovo",
     "population": 1845300
   },
   {
-    "Country_Region": "Kuwait",
+    "country_name": "Kuwait",
     "population": 4137309
   },
   {
-    "Country_Region": "Kyrgyz Republic",
+    "country_name": "Kyrgyz Republic",
     "population": 6315800
   },
   {
-    "Country_Region": "Lao PDR",
+    "country_name": "Lao PDR",
     "population": 7061507
   },
   {
-    "Country_Region": "Late-demographic dividend",
+    "country_name": "Late-demographic dividend",
     "population": 2288665963
   },
   {
-    "Country_Region": "Latin America & Caribbean",
+    "country_name": "Latin America & Caribbean",
     "population": 641357515
   },
   {
-    "Country_Region": "Latin America & Caribbean (excluding high income)",
+    "country_name": "Latin America & Caribbean (excluding high income)",
     "population": 609013934
   },
   {
-    "Country_Region": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "country_name": "Latin America & the Caribbean (IDA & IBRD countries)",
     "population": 625569713
   },
   {
-    "Country_Region": "Latvia",
+    "country_name": "Latvia",
     "population": 1926542
   },
   {
-    "Country_Region": "Least developed countries: UN classification",
+    "country_name": "Least developed countries: UN classification",
     "population": 1009662578
   },
   {
-    "Country_Region": "Lebanon",
+    "country_name": "Lebanon",
     "population": 6848925
   },
   {
-    "Country_Region": "Lesotho",
+    "country_name": "Lesotho",
     "population": 2108132
   },
   {
-    "Country_Region": "Liberia",
+    "country_name": "Liberia",
     "population": 4818977
   },
   {
-    "Country_Region": "Libya",
+    "country_name": "Libya",
     "population": 6678567
   },
   {
-    "Country_Region": "Liechtenstein",
+    "country_name": "Liechtenstein",
     "population": 37910
   },
   {
-    "Country_Region": "Lithuania",
+    "country_name": "Lithuania",
     "population": 2789533
   },
   {
-    "Country_Region": "Low & middle income",
+    "country_name": "Low & middle income",
     "population": 6383958209
   },
   {
-    "Country_Region": "Low income",
+    "country_name": "Low income",
     "population": 705417321
   },
   {
-    "Country_Region": "Lower middle income",
+    "country_name": "Lower middle income",
     "population": 3022905169
   },
   {
-    "Country_Region": "Luxembourg",
+    "country_name": "Luxembourg",
     "population": 607728
   },
   {
-    "Country_Region": "Macao SAR, China",
+    "country_name": "Macao SAR, China",
     "population": 631636
   },
   {
-    "Country_Region": "Madagascar",
+    "country_name": "Madagascar",
     "population": 26262368
   },
   {
-    "Country_Region": "Malawi",
+    "country_name": "Malawi",
     "population": 18143315
   },
   {
-    "Country_Region": "Malaysia",
+    "country_name": "Malaysia",
     "population": 31528585
   },
   {
-    "Country_Region": "Maldives",
+    "country_name": "Maldives",
     "population": 515696
   },
   {
-    "Country_Region": "Mali",
+    "country_name": "Mali",
     "population": 19077690
   },
   {
-    "Country_Region": "Malta",
+    "country_name": "Malta",
     "population": 483530
   },
   {
-    "Country_Region": "Marshall Islands",
+    "country_name": "Marshall Islands",
     "population": 58413
   },
   {
-    "Country_Region": "Mauritania",
+    "country_name": "Mauritania",
     "population": 4403319
   },
   {
-    "Country_Region": "Mauritius",
+    "country_name": "Mauritius",
     "population": 1265303
   },
   {
-    "Country_Region": "Mexico",
+    "country_name": "Mexico",
     "population": 126190788
   },
   {
-    "Country_Region": "Micronesia, Fed. Sts.",
+    "country_name": "Micronesia, Fed. Sts.",
     "population": 112640
   },
   {
-    "Country_Region": "Middle East & North Africa",
+    "country_name": "Middle East & North Africa",
     "population": 448912859
   },
   {
-    "Country_Region": "Middle East & North Africa (excluding high income)",
+    "country_name": "Middle East & North Africa (excluding high income)",
     "population": 382896715
   },
   {
-    "Country_Region": "Middle East & North Africa (IDA & IBRD countries)",
+    "country_name": "Middle East & North Africa (IDA & IBRD countries)",
     "population": 378327628
   },
   {
-    "Country_Region": "Middle income",
+    "country_name": "Middle income",
     "population": 5678540888
   },
   {
-    "Country_Region": "Moldova",
+    "country_name": "Moldova",
     "population": 3545883
   },
   {
-    "Country_Region": "Monaco",
+    "country_name": "Monaco",
     "population": 38682
   },
   {
-    "Country_Region": "Mongolia",
+    "country_name": "Mongolia",
     "population": 3170208
   },
   {
-    "Country_Region": "Montenegro",
+    "country_name": "Montenegro",
     "population": 622345
   },
   {
-    "Country_Region": "Morocco",
+    "country_name": "Morocco",
     "population": 36029138
   },
   {
-    "Country_Region": "Mozambique",
+    "country_name": "Mozambique",
     "population": 29495962
   },
   {
-    "Country_Region": "Myanmar",
+    "country_name": "Myanmar",
     "population": 53708395
   },
   {
-    "Country_Region": "Namibia",
+    "country_name": "Namibia",
     "population": 2448255
   },
   {
-    "Country_Region": "Nauru",
+    "country_name": "Nauru",
     "population": 12704
   },
   {
-    "Country_Region": "Nepal",
+    "country_name": "Nepal",
     "population": 28087871
   },
   {
-    "Country_Region": "Netherlands",
+    "country_name": "Netherlands",
     "population": 17231017
   },
   {
-    "Country_Region": "New Caledonia",
+    "country_name": "New Caledonia",
     "population": 284060
   },
   {
-    "Country_Region": "New Zealand",
+    "country_name": "New Zealand",
     "population": 4885500
   },
   {
-    "Country_Region": "Nicaragua",
+    "country_name": "Nicaragua",
     "population": 6465513
   },
   {
-    "Country_Region": "Niger",
+    "country_name": "Niger",
     "population": 22442948
   },
   {
-    "Country_Region": "Nigeria",
+    "country_name": "Nigeria",
     "population": 195874740
   },
   {
-    "Country_Region": "North America",
+    "country_name": "North America",
     "population": 364290258
   },
   {
-    "Country_Region": "North Macedonia",
+    "country_name": "North Macedonia",
     "population": 2082958
   },
   {
-    "Country_Region": "Northern Mariana Islands",
+    "country_name": "Northern Mariana Islands",
     "population": 56882
   },
   {
-    "Country_Region": "Norway",
+    "country_name": "Norway",
     "population": 5314336
   },
   {
-    "Country_Region": "OECD members",
+    "country_name": "OECD members",
     "population": 1303529456
   },
   {
-    "Country_Region": "Oman",
+    "country_name": "Oman",
     "population": 4829483
   },
   {
-    "Country_Region": "Other small states",
+    "country_name": "Other small states",
     "population": 30758989
   },
   {
-    "Country_Region": "Pacific island small states",
+    "country_name": "Pacific island small states",
     "population": 2457367
   },
   {
-    "Country_Region": "Pakistan",
+    "country_name": "Pakistan",
     "population": 212215030
   },
   {
-    "Country_Region": "Palau",
+    "country_name": "Palau",
     "population": 17907
   },
   {
-    "Country_Region": "Panama",
+    "country_name": "Panama",
     "population": 4176873
   },
   {
-    "Country_Region": "Papua New Guinea",
+    "country_name": "Papua New Guinea",
     "population": 8606316
   },
   {
-    "Country_Region": "Paraguay",
+    "country_name": "Paraguay",
     "population": 6956071
   },
   {
-    "Country_Region": "Peru",
+    "country_name": "Peru",
     "population": 31989256
   },
   {
-    "Country_Region": "Philippines",
+    "country_name": "Philippines",
     "population": 106651922
   },
   {
-    "Country_Region": "Poland",
+    "country_name": "Poland",
     "population": 37978548
   },
   {
-    "Country_Region": "Portugal",
+    "country_name": "Portugal",
     "population": 10281762
   },
   {
-    "Country_Region": "Post-demographic dividend",
+    "country_name": "Post-demographic dividend",
     "population": 1109997273
   },
   {
-    "Country_Region": "Pre-demographic dividend",
+    "country_name": "Pre-demographic dividend",
     "population": 919485393
   },
   {
-    "Country_Region": "Puerto Rico",
+    "country_name": "Puerto Rico",
     "population": 3195153
   },
   {
-    "Country_Region": "Qatar",
+    "country_name": "Qatar",
     "population": 2781677
   },
   {
-    "Country_Region": "Romania",
+    "country_name": "Romania",
     "population": 19473936
   },
   {
-    "Country_Region": "Russian Federation",
+    "country_name": "Russian Federation",
     "population": 144478050
   },
   {
-    "Country_Region": "Rwanda",
+    "country_name": "Rwanda",
     "population": 12301939
   },
   {
-    "Country_Region": "Samoa",
+    "country_name": "Samoa",
     "population": 196130
   },
   {
-    "Country_Region": "San Marino",
+    "country_name": "San Marino",
     "population": 33785
   },
   {
-    "Country_Region": "Sao Tome and Principe",
+    "country_name": "Sao Tome and Principe",
     "population": 211028
   },
   {
-    "Country_Region": "Saudi Arabia",
+    "country_name": "Saudi Arabia",
     "population": 33699947
   },
   {
-    "Country_Region": "Senegal",
+    "country_name": "Senegal",
     "population": 15854360
   },
   {
-    "Country_Region": "Serbia",
+    "country_name": "Serbia",
     "population": 6982084
   },
   {
-    "Country_Region": "Seychelles",
+    "country_name": "Seychelles",
     "population": 96762
   },
   {
-    "Country_Region": "Sierra Leone",
+    "country_name": "Sierra Leone",
     "population": 7650154
   },
   {
-    "Country_Region": "Singapore",
+    "country_name": "Singapore",
     "population": 5638676
   },
   {
-    "Country_Region": "Sint Maarten (Dutch part)",
+    "country_name": "Sint Maarten (Dutch part)",
     "population": 40654
   },
   {
-    "Country_Region": "Slovak Republic",
+    "country_name": "Slovak Republic",
     "population": 5447011
   },
   {
-    "Country_Region": "Slovenia",
+    "country_name": "Slovenia",
     "population": 2067372
   },
   {
-    "Country_Region": "Small states",
+    "country_name": "Small states",
     "population": 40575321
   },
   {
-    "Country_Region": "Solomon Islands",
+    "country_name": "Solomon Islands",
     "population": 652858
   },
   {
-    "Country_Region": "Somalia",
+    "country_name": "Somalia",
     "population": 15008154
   },
   {
-    "Country_Region": "South Africa",
+    "country_name": "South Africa",
     "population": 57779622
   },
   {
-    "Country_Region": "South Asia",
+    "country_name": "South Asia",
     "population": 1814388744
   },
   {
-    "Country_Region": "South Asia (IDA & IBRD)",
+    "country_name": "South Asia (IDA & IBRD)",
     "population": 1814388744
   },
   {
-    "Country_Region": "South Sudan",
+    "country_name": "South Sudan",
     "population": 10975920
   },
   {
-    "Country_Region": "Spain",
+    "country_name": "Spain",
     "population": 46723749
   },
   {
-    "Country_Region": "Sri Lanka",
+    "country_name": "Sri Lanka",
     "population": 21670000
   },
   {
-    "Country_Region": "St. Kitts and Nevis",
+    "country_name": "St. Kitts and Nevis",
     "population": 52441
   },
   {
-    "Country_Region": "St. Lucia",
+    "country_name": "St. Lucia",
     "population": 181889
   },
   {
-    "Country_Region": "St. Martin (French part)",
+    "country_name": "St. Martin (French part)",
     "population": 37264
   },
   {
-    "Country_Region": "St. Vincent and the Grenadines",
+    "country_name": "St. Vincent and the Grenadines",
     "population": 110210
   },
   {
-    "Country_Region": "Sub-Saharan Africa",
+    "country_name": "Sub-Saharan Africa",
     "population": 1078306520
   },
   {
-    "Country_Region": "Sub-Saharan Africa (excluding high income)",
+    "country_name": "Sub-Saharan Africa (excluding high income)",
     "population": 1078209758
   },
   {
-    "Country_Region": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "country_name": "Sub-Saharan Africa (IDA & IBRD countries)",
     "population": 1078306520
   },
   {
-    "Country_Region": "Sudan",
+    "country_name": "Sudan",
     "population": 41801533
   },
   {
-    "Country_Region": "Suriname",
+    "country_name": "Suriname",
     "population": 575991
   },
   {
-    "Country_Region": "Sweden",
+    "country_name": "Sweden",
     "population": 10183175
   },
   {
-    "Country_Region": "Switzerland",
+    "country_name": "Switzerland",
     "population": 8516543
   },
   {
-    "Country_Region": "Syrian Arab Republic",
+    "country_name": "Syrian Arab Republic",
     "population": 16906283
   },
   {
-    "Country_Region": "Tajikistan",
+    "country_name": "Tajikistan",
     "population": 9100837
   },
   {
-    "Country_Region": "Tanzania",
+    "country_name": "Tanzania",
     "population": 56318348
   },
   {
-    "Country_Region": "Thailand",
+    "country_name": "Thailand",
     "population": 69428524
   },
   {
-    "Country_Region": "Timor-Leste",
+    "country_name": "Timor-Leste",
     "population": 1267972
   },
   {
-    "Country_Region": "Togo",
+    "country_name": "Togo",
     "population": 7889094
   },
   {
-    "Country_Region": "Tonga",
+    "country_name": "Tonga",
     "population": 103197
   },
   {
-    "Country_Region": "Trinidad and Tobago",
+    "country_name": "Trinidad and Tobago",
     "population": 1389858
   },
   {
-    "Country_Region": "Tunisia",
+    "country_name": "Tunisia",
     "population": 11565204
   },
   {
-    "Country_Region": "Turkey",
+    "country_name": "Turkey",
     "population": 82319724
   },
   {
-    "Country_Region": "Turkmenistan",
+    "country_name": "Turkmenistan",
     "population": 5850908
   },
   {
-    "Country_Region": "Turks and Caicos Islands",
+    "country_name": "Turks and Caicos Islands",
     "population": 37665
   },
   {
-    "Country_Region": "Tuvalu",
+    "country_name": "Tuvalu",
     "population": 11508
   },
   {
-    "Country_Region": "Uganda",
+    "country_name": "Uganda",
     "population": 42723139
   },
   {
-    "Country_Region": "Ukraine",
+    "country_name": "Ukraine",
     "population": 44622516
   },
   {
-    "Country_Region": "United Arab Emirates",
+    "country_name": "United Arab Emirates",
     "population": 9630959
   },
   {
-    "Country_Region": "United Kingdom",
+    "country_name": "United Kingdom",
     "population": 66488991
   },
   {
-    "Country_Region": "United States",
+    "country_name": "United States",
     "population": 327167434
   },
   {
-    "Country_Region": "Upper middle income",
+    "country_name": "Upper middle income",
     "population": 2655635719
   },
   {
-    "Country_Region": "Uruguay",
+    "country_name": "Uruguay",
     "population": 3449299
   },
   {
-    "Country_Region": "Uzbekistan",
+    "country_name": "Uzbekistan",
     "population": 32955400
   },
   {
-    "Country_Region": "Vanuatu",
+    "country_name": "Vanuatu",
     "population": 292680
   },
   {
-    "Country_Region": "Venezuela, RB",
+    "country_name": "Venezuela, RB",
     "population": 28870195
   },
   {
-    "Country_Region": "Vietnam",
+    "country_name": "Vietnam",
     "population": 95540395
   },
   {
-    "Country_Region": "Virgin Islands (U.S.)",
+    "country_name": "Virgin Islands (U.S.)",
     "population": 106977
   },
   {
-    "Country_Region": "West Bank and Gaza",
+    "country_name": "West Bank and Gaza",
     "population": 4569087
   },
   {
-    "Country_Region": "World",
+    "country_name": "World",
     "population": 7594270356
   },
   {
-    "Country_Region": "Yemen, Rep.",
+    "country_name": "Yemen, Rep.",
     "population": 28498687
   },
   {
-    "Country_Region": "Zambia",
+    "country_name": "Zambia",
     "population": 17351822
   },
   {
-    "Country_Region": "Zimbabwe",
+    "country_name": "Zimbabwe",
     "population": 14439018
   }
 ]

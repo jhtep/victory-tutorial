@@ -12,13 +12,13 @@ const input = fs.readJsonSync(path);
 const out = [];
 input.forEach((item) => {
   if (item.fields.year == '2018') {
-    const Country_Region = item.fields.country_name;
+    const country_name = item.fields.country_name;
     const population = item.fields.value;
-    out.push({ Country_Region, population });
+    out.push({ country_name, population });
   }
 });
 out.sort((item1, item2) =>
-  item1.Country_Region.localeCompare(item2.Country_Region)
+  item1.country_name.localeCompare(item2.country_name)
 );
 fs.writeJsonSync(outpath, out, { spaces: 2 });
 console.log('outpath', outpath);
