@@ -5,6 +5,12 @@
 const parse = require('csv-parse/lib/sync');
 const fs = require('fs-extra');
 
+const file_date = '04-25-2020';
+const daily_dir = './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/';
+const cvs_inpath = daily_dir + file_date + '.csv';
+const outpath_summary = './stats/' + file_date + '.json';
+const outpath_detail = './stats/' + file_date + '-details.json';
+
 const pop = require('./world-population/pop2018.json');
 const pop_by_country = {};
 pop.forEach((item) => {
@@ -46,12 +52,6 @@ const Country_Region_to_country_name = {
 
 // sums[7] {"Confirmed":87026,"Deaths":5481,"Country_Region":"Iran"}
 // "country_name": "Iran, Islamic Rep.",
-
-const file_date = '04-24-2020';
-const daily_dir = './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/';
-const cvs_inpath = daily_dir + file_date + '.csv';
-const outpath_summary = './stats/' + file_date + '.json';
-const outpath_detail = './stats/' + file_date + '-details.json';
 
 // './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/03-23-2020.csv';
 // './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/03-21-2020.csv';
