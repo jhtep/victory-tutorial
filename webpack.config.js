@@ -4,21 +4,21 @@ var buildPath = path.join(__dirname, 'dist');
 
 module.exports = {
   context: srcPath,
-  entry: path.join(srcPath, 'js', 'client.js'),
+  entry: path.join(srcPath, 'js', 'world_pie.js'),
   output: {
-      path: buildPath,
-      filename: "bundle.js"
+    path: buildPath,
+    filename: 'bundle.js',
   },
   module: {
-      rules: [
-          {
-            test: /\.jsx?$/,
-            exclude: /(node_modules|bower_components)/,
-            loader: 'babel-loader',
-            query: {
-              presets: ['@babel/preset-react', '@babel/preset-env']
-            }
-          }
-      ]
-  }
+    rules: [
+      {
+        test: /\.jsx?$/,
+        exclude: /(node_modules|bower_components)/,
+        loader: 'babel-loader',
+        query: {
+          presets: ['@babel/preset-react', '@babel/preset-env'],
+        },
+      },
+    ],
+  },
 };

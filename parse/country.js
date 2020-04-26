@@ -139,10 +139,8 @@ records.forEach(process_item);
 // Active: '22',
 // Combined_Key: 'Essex, New York, US' }
 
-console.log('\n', cvs_inpath);
 console.log('records[0]', records[0]);
 console.log('sums_total', sums_total);
-console.log('\n');
 
 const sums = Object.values(sums_country);
 sums.sort((item1, item2) => item2.Deaths - item1.Deaths);
@@ -154,7 +152,7 @@ sums.forEach((item) => {
     // item.per_population[prop] = item[prop] / (item.population / 1000);
   }
 });
-console.log('sums.length', sums.length, '\n');
+console.log('sums.length', sums.length);
 
 for (let index = 0; index < 20; index++) {
   console.log('sums[' + index + ']', JSON.stringify(sums[index]));
@@ -164,6 +162,7 @@ for (let index = 0; index < 20; index++) {
 //   console.log('sums[' + index + ']', JSON.stringify(sums[index]));
 // }
 
+console.log(cvs_inpath);
 console.log(outpath_summary, '\n');
 
 fs.writeJsonSync(outpath_summary, sums, { spaces: 2 });

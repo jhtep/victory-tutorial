@@ -9,6 +9,8 @@ const lime300 = '#DCE775';
 const lightGreen500 = '#8BC34A';
 const teal700 = '#00796B';
 const cyan900 = '#006064';
+const red = '#FF0000';
+const green = '#00FF00';
 const colors = [
   deepOrange600,
   yellow200,
@@ -16,6 +18,8 @@ const colors = [
   lightGreen500,
   teal700,
   cyan900,
+  green,
+  red,
 ];
 const blueGrey50 = '#ECEFF1';
 const blueGrey300 = '#90A4AE';
