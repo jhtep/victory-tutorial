@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { VictoryPie, VictoryContainer } from 'victory';
+import { VictoryPie, VictoryTooltip } from 'victory';
 import material from './material';
 
 const nslice = 6;
@@ -78,6 +78,7 @@ const items = [
   },
 ];
 
+let stats_total = 0;
 let other_stat = 0;
 const pie_data = [];
 //   { x: 'Cats', y: 35 },
@@ -86,13 +87,21 @@ const pie_data = [];
 //   { x: 'Cow', y: 55 },
 // ];
 items.forEach((item, index) => {
+  stats_total += item.Deaths;
   if (index < nslice) {
-    pie_data.push({ x: item.Country_Region, y: item.Confirmed });
+    const x = item.Country_Region;
+    const y = item.Deaths;
+    const label = x + '\n' + item.Deaths;
+    pie_data.push({ x, y, label });
   } else {
-    other_stat += item.Confirmed;
+    other_stat += item.Deaths;
   }
 });
-pie_data.push({ x: 'Other', y: other_stat });
+const x = 'Other';
+const y = other_stat;
+const label = x + '\n' + other_stat;
+pie_data.push({ x, y, label });
+
 // const colors = ['tomato', 'orange', 'gold', 'cyan', 'navy'];
 // built in color scales: "grayscale", "qualitative", "heatmap", "warm", "cool", "red", "green", "blue".
 // const colors = 'qualitative';
@@ -118,23 +127,28 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>COVID-19 Total World Confirmed</h1>
-        <VictoryPie
-          // width="200"
-          // animate={{ duration: 2000 }}
-          colorScale={colors}
-          theme={material}
-          // containerComponent={<VictoryContainer height={350} />}
-          data={pie_data}
-        />
-        <VictoryPie
-          // width="200"
-          // animate={{ duration: 2000 }}
-          colorScale={colors}
-          theme={material}
-          // containerComponent={<VictoryContainer height={350} />}
-          data={pie_data}
-        />
+        <h1>COVID-19 Total World Deaths {stats_total}</h1>
+        <div style={{ display: 'flex', flexWrap: 'wrap' }}>
+          <VictoryPie
+            style={{ parent: { maxWidth: '50%' } }}
+            // width="200"
+            // animate={{ duration: 2000 }}
+            colorScale={colors}
+            theme={material}
+            // containerComponent={<VictoryContainer height={350} />}
+            data={pie_data}
+            labelComponent={<VictoryTooltip />}
+          />
+          <VictoryPie
+            style={{ parent: { maxWidth: '50%' } }}
+            // width="200"
+            // animate={{ duration: 2000 }}
+            colorScale={colors}
+            theme={material}
+            // containerComponent={<VictoryContainer height={350} />}
+            data={pie_data}
+          />
+        </div>
       </div>
     );
   }
