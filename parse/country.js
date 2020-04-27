@@ -5,7 +5,7 @@
 const parse = require('csv-parse/lib/sync');
 const fs = require('fs-extra');
 
-const file_date = '04-25-2020';
+const file_date = '04-26-2020';
 const daily_dir = './COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/';
 const cvs_inpath = daily_dir + file_date + '.csv';
 const outpath_summary = './stats/' + file_date + '.json';
